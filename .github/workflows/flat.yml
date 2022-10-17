@@ -24,6 +24,13 @@ jobs:
       #
       # macOS Software Update catalog files
       #
+      - name: Fetch macOS 12 seed sucatalog
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://swscan.apple.com/content/catalogs/others/index-12seed-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          downloaded_filename: ./swscan.apple.com/content/catalogs/others/index-12seed-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          postprocess: ./postprocessing/postprocess-catalog-gz.js
+
       - name: Fetch macOS 11 sucatalog
         uses: githubocto/flat@v2
         with:
