@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2022-10-24T20:51:22Z",
+  "IndexDate": "2022-10-24T21:01:27Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1160,33 +1160,6 @@
       ],
       "PostDate": "2022-03-03T19:30:04Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/macOSInstallerNotification_GM.smd"
-    },
-    "002-86737": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.English.dist",
-        "French": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.French.dist",
-        "German": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.German.dist",
-        "Japanese": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.Japanese.dist",
-        "Spanish": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.Spanish.dist",
-        "ko": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.ko.dist",
-        "zh_CN": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/002-86737.zh_CN.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "4e194368a26c4bbc70c7995ec77a8229d1d49e22",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/ProVideoFormats.pkm",
-          "Size": 9432763,
-          "URL": "http://swcdn.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/ProVideoFormats.pkg"
-        },
-        {
-          "Digest": "c4ba90d7467eed568f37c29c08a3e993b7fe37ef",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/MXFPlugIns.pkm",
-          "Size": 502847,
-          "URL": "http://swcdn.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/MXFPlugIns.pkg"
-        }
-      ],
-      "PostDate": "2022-04-12T17:22:08Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/45/12/002-86737-A_1FTKZ406T9/p28t61gmsx60ck7v699is602na15empuha/ProVideoFormats.smd"
     },
     "012-04871": {
       "Distributions": {
