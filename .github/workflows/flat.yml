@@ -64,3 +64,12 @@ jobs:
           http_url: https://mesu.apple.com/assets/com_apple_MobileAsset_SoftwareUpdate/com_apple_MobileAsset_SoftwareUpdate.xml
           downloaded_filename: ./mesu.apple.com/assets/com_apple_MobileAsset_SoftwareUpdate/com_apple_MobileAsset_SoftwareUpdate.xml
           postprocess: ./postprocessing/postprocess-plist.js
+
+      #
+      # Apple Software Lookup Service
+      #
+      - name: Fetch latest Apple software
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://gdmf.apple.com/v2/pmv
+          downloaded_filename: ./gdmf.apple.com/v2/pmv.json
