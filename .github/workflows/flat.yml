@@ -1,4 +1,4 @@
-name: Flat
+name: Process Apple Updates
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
     - cron: '*/30 * * * *'
 
 jobs:
-  scheduled:
+  process-apple-updates:
     runs-on: macos-latest
     steps:
 
