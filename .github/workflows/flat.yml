@@ -73,4 +73,3 @@ jobs:
         with:
           http_url: https://gdmf.apple.com/v2/pmv
           downloaded_filename: ./gdmf.apple.com/v2/pmv.json
-          typeorm_config: '{"ssl":true,"extra":{"ssl":{"rejectUnauthorized":false}}}'
