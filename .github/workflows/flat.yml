@@ -73,3 +73,4 @@ jobs:
         with:
           http_url: https://gdmf.apple.com/v2/pmv
           downloaded_filename: ./gdmf.apple.com/v2/pmv.json
+          axios_config: '.github/workflows/axios_gdmf.apple.com.json'
