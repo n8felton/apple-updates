@@ -35,309 +35,309 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "Mac13,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "Mac13,2": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "Mac14,2": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "Mac14,7": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookAir10,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookPro18,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookPro18,2": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookPro18,3": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "MacBookPro18,4": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "Macmini9,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "VirtualMac2,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "BuildVersion": "22A400",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           }
         },
         "iMac21,1": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
         },
         "iMac21,2": {
-          "22A380": {
+          "22A400": {
             "Restore": {
-              "BuildVersion": "22A380",
+              "BuildVersion": "22A400",
               "DocumentationURL": "",
-              "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-              "ProductVersion": "13.0"
+              "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+              "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+              "ProductVersion": "13.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22A380",
+                "BuildVersion": "22A400",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "348f49da377d8c394672d1b2800d23452a1d6215",
-                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92188/2C38BCD1-2BFF-4A10-B358-94E8E28BE805/UniversalMac_13.0_22A380_Restore.ipsw",
-                "ProductVersion": "13.0"
+                "FirmwareSHA1": "9635facb4c0b5dd23026097494316d6dc162594d",
+                "FirmwareURL": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93802/A7270B0F-05F8-43D1-A9AD-40EF5699E82C/UniversalMac_13.0.1_22A400_Restore.ipsw",
+                "ProductVersion": "13.0.1"
               }
             }
           }
