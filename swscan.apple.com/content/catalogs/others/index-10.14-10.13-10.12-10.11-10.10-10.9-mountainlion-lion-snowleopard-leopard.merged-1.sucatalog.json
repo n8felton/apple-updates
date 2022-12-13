@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2022-12-13T19:51:19Z",
+  "IndexDate": "2022-12-13T19:55:35Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1508,65 +1508,6 @@
       ],
       "PostDate": "2022-10-27T20:00:03Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/ProVideoFormats.smd"
-    },
-    "012-93766": {
-      "DeferredSUEnablementDate": "2022-11-09T08:00:00Z",
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/012-93766.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "BuildManifest": "com.apple.plist.BuildManifest",
-          "Info": "com.apple.plist.Info",
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSVentura",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "0a4962563ffcac292e3765e3c06d32e86a9a8668",
-          "IntegrityDataSize": 41792,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/InstallAssistant.pkm",
-          "Size": 12151255443,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/InstallAssistant.pkg"
-        },
-        {
-          "Digest": "bbdeec0a09cb32ee67e6d5eb700b841303ffc504",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/MajorOSInfo.pkm",
-          "Size": 1334734,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/MajorOSInfo.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/BuildManifest.plist.integrityDataV1",
-          "Size": 3355906,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/BuildManifest.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/Info.plist.integrityDataV1",
-          "Size": 5044,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/Info.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/InstallInfo.plist.integrityDataV1",
-          "Size": 181,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/UpdateBrain.zip.integrityDataV1",
-          "Size": 3450516,
-          "URL": "http://swcdn.apple.com/content/downloads/45/03/012-93766-A_BKGVNEJYP3/ogzz9pg17x6lk7uvi0jgqjz843ncr7857a/UpdateBrain.zip"
-        }
-      ],
-      "PostDate": "2022-11-09T18:02:34Z",
-      "State": "ramped"
     },
     "031-17334": {
       "Distributions": {
