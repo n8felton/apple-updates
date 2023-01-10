@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-01-06T23:43:37Z",
+  "IndexDate": "2023-01-10T17:10:03Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1264,6 +1264,21 @@
       ],
       "PostDate": "2022-08-11T17:40:57Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/24/012-10216-A_1BY6OJU63Y/0c34ct4seb5tvj8fdvyvxiato9wn2xig3j/SafeView.smd"
+    },
+    "012-55194": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/33/01/012-55194-A_NCPKV657LS/p59v9hcwgyd1q44dg0b5fdpfbbv16gz468/012-55194.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "be29687486a308c7c9c45be7b53d23abf3c58f2c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/33/01/012-55194-A_NCPKV657LS/p59v9hcwgyd1q44dg0b5fdpfbbv16gz468/SafeView.pkm",
+          "Size": 23930768,
+          "URL": "http://swcdn.apple.com/content/downloads/33/01/012-55194-A_NCPKV657LS/p59v9hcwgyd1q44dg0b5fdpfbbv16gz468/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2023-01-10T17:09:02Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/01/012-55194-A_NCPKV657LS/p59v9hcwgyd1q44dg0b5fdpfbbv16gz468/SafeView.smd"
     },
     "012-60271": {
       "DeferredSUEnablementDate": "2022-12-13T08:00:00Z",
