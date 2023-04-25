@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-04-21T20:09:53Z",
+  "IndexDate": "2023-04-25T17:15:49Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -7456,21 +7456,6 @@
       "PostDate": "2015-03-25T17:12:01Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/42/42/031-18981/aad8ihelipq499lssgks1l1vqpqfjnhhys/PhotoContentCatalogs.smd"
     },
-    "032-12798": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/29/23/032-12798-A_GQQS0LA76W/pb53is92wc2npvaer6bnxgmzemwum8xoyg/032-12798.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "9a715963fe69f4fc9673971c9faf204f8677f6e8",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/29/23/032-12798-A_GQQS0LA76W/pb53is92wc2npvaer6bnxgmzemwum8xoyg/EFIAllowListAll.pkm",
-          "Size": 87307486,
-          "URL": "http://swcdn.apple.com/content/downloads/29/23/032-12798-A_GQQS0LA76W/pb53is92wc2npvaer6bnxgmzemwum8xoyg/EFIAllowListAll.pkg"
-        }
-      ],
-      "PostDate": "2023-03-15T17:10:11Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/29/23/032-12798-A_GQQS0LA76W/pb53is92wc2npvaer6bnxgmzemwum8xoyg/EFIAllowListAll.smd"
-    },
     "032-57220": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/28/49/032-57220-A_K0AVT2SL3K/h5s2sp3db69dh2251cia7ve2gldxbxt847/032-57220.English.dist"
@@ -7485,6 +7470,21 @@
       ],
       "PostDate": "2023-03-30T17:12:59Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/49/032-57220-A_K0AVT2SL3K/h5s2sp3db69dh2251cia7ve2gldxbxt847/XProtectPlistConfigData_10_14.smd"
+    },
+    "032-63283": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/23/49/032-63283-A_1XP3XZ2WLG/m0k6hksgqkc45mdi55hjt0g4c7bkpyh6hn/032-63283.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "c107f55f4c24eb5ad7d17b0661d8d405f5ca4cc4",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/23/49/032-63283-A_1XP3XZ2WLG/m0k6hksgqkc45mdi55hjt0g4c7bkpyh6hn/EFIAllowListAll.pkm",
+          "Size": 87363016,
+          "URL": "http://swcdn.apple.com/content/downloads/23/49/032-63283-A_1XP3XZ2WLG/m0k6hksgqkc45mdi55hjt0g4c7bkpyh6hn/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2023-04-25T17:10:41Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/23/49/032-63283-A_1XP3XZ2WLG/m0k6hksgqkc45mdi55hjt0g4c7bkpyh6hn/EFIAllowListAll.smd"
     },
     "032-66588": {
       "DeferredSUEnablementDate": "2002-04-07T08:00:00Z",
