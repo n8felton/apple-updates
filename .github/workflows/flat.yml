@@ -29,7 +29,7 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: https://swscan.apple.com/content/catalogs/others/index-rosettaupdateauto-1.sucatalog.gz
-          downloaded_filename: ./swscan.apple.com/content/catalogs/others/https://swscan.apple.com/content/catalogs/others/index-rosettaupdateauto-1.sucatalog.gz
+          downloaded_filename: ./swscan.apple.com/content/catalogs/others/index-rosettaupdateauto-1.sucatalog.gz
           postprocess: ./postprocessing/postprocess-catalog-gz.js
 
       #
