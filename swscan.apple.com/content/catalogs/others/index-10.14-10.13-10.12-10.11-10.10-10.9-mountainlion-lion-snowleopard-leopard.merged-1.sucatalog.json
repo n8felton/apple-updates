@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-05-23T20:18:16Z",
+  "IndexDate": "2023-05-23T21:48:16Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1323,33 +1323,6 @@
       ],
       "PostDate": "2023-03-21T18:59:13Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/06/012-72530-A_M8YXN50C69/94vzw9saznffq1qj1fqkdma1xruitkvo9p/MobileDeviceOnDemand.smd"
-    },
-    "012-93635": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.English.dist",
-        "French": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.French.dist",
-        "German": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.German.dist",
-        "Japanese": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.Japanese.dist",
-        "Spanish": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.Spanish.dist",
-        "ko": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.ko.dist",
-        "zh_CN": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/012-93635.zh_CN.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "be894a44660c043ede02aff0910782ad4515f64f",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/ProVideoFormats.pkm",
-          "Size": 9434381,
-          "URL": "http://swcdn.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/ProVideoFormats.pkg"
-        },
-        {
-          "Digest": "e241f3a3d44394ebd45a91c6ad530e349fd00523",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/MXFPlugIns.pkm",
-          "Size": 504335,
-          "URL": "http://swcdn.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/MXFPlugIns.pkg"
-        }
-      ],
-      "PostDate": "2022-10-27T20:00:03Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/03/24/012-93635-A_8V5E0QA96M/zd4nw50fb1qlpsfu65jd127vf1ut5gxcko/ProVideoFormats.smd"
     },
     "031-17334": {
       "Distributions": {
