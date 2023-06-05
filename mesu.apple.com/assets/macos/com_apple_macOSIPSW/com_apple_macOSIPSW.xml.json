@@ -5,8 +5,11 @@
       "100687905": "Mac14,6",
       "134242304": "MacBookPro18,3",
       "134242305": "MacBookPro18,4",
+      "134242338": "Mac14,8",
       "167796736": "MacBookPro18,1",
       "167796737": "MacBookPro18,2",
+      "167796769": "Mac14,13",
+      "167796770": "Mac14,14",
       "201351170": "Mac13,2",
       "33579040": "Mac14,12",
       "570458371": "Macmini9,1",
@@ -19,15 +22,19 @@
       "67133472": "Mac14,9",
       "67133473": "Mac14,5",
       "704676099": "iMac21,2",
-      "704676114": "Mac14,7"
+      "704676114": "Mac14,7",
+      "771784978": "Mac14,15"
     },
     "Recovery": {
       "100687904": "Mac14,10",
       "100687905": "Mac14,6",
       "134242304": "MacBookPro18,3",
       "134242305": "MacBookPro18,4",
+      "134242338": "Mac14,8",
       "167796736": "MacBookPro18,1",
       "167796737": "MacBookPro18,2",
+      "167796769": "Mac14,13",
+      "167796770": "Mac14,14",
       "201351170": "Mac13,2",
       "33579040": "Mac14,12",
       "570458371": "Macmini9,1",
@@ -40,7 +47,8 @@
       "67133472": "Mac14,9",
       "67133473": "Mac14,5",
       "704676099": "iMac21,2",
-      "704676114": "Mac14,7"
+      "704676114": "Mac14,7",
+      "771784978": "Mac14,15"
     }
   },
   "MobileDeviceSoftwareVersionsByVersion": {
@@ -133,6 +141,75 @@
                 "EpochVersion": "1",
                 "FirmwareSHA1": "7d7d939fe872fad8fd4c77ba8f2cfdc255a65010",
                 "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84884/F97A22EE-9B5E-4FD5-94C1-B39DCEE8D80F/UniversalMac_13.4_22F66_Restore.ipsw",
+                "ProductVersion": "13.4"
+              }
+            }
+          }
+        },
+        "Mac14,13": {
+          "22F2073": {
+            "Restore": {
+              "BuildVersion": "22F2073",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+              "ProductVersion": "13.4"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "22F2073",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+                "ProductVersion": "13.4"
+              }
+            }
+          }
+        },
+        "Mac14,14": {
+          "22F2073": {
+            "Restore": {
+              "BuildVersion": "22F2073",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+              "ProductVersion": "13.4"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "22F2073",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+                "ProductVersion": "13.4"
+              }
+            }
+          }
+        },
+        "Mac14,15": {
+          "22F2073": {
+            "Restore": {
+              "BuildVersion": "22F2073",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+              "ProductVersion": "13.4"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "22F2073",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
                 "ProductVersion": "13.4"
               }
             }
@@ -248,6 +325,29 @@
                 "EpochVersion": "1",
                 "FirmwareSHA1": "7d7d939fe872fad8fd4c77ba8f2cfdc255a65010",
                 "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84884/F97A22EE-9B5E-4FD5-94C1-B39DCEE8D80F/UniversalMac_13.4_22F66_Restore.ipsw",
+                "ProductVersion": "13.4"
+              }
+            }
+          }
+        },
+        "Mac14,8": {
+          "22F2073": {
+            "Restore": {
+              "BuildVersion": "22F2073",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+              "ProductVersion": "13.4"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "22F2073",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "7428891aa3faa485bb11fd2ba59488463e9357f2",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
                 "ProductVersion": "13.4"
               }
             }
