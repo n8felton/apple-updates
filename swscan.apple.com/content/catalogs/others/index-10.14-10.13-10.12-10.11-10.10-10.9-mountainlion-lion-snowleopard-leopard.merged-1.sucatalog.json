@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-06-20T16:15:31Z",
+  "IndexDate": "2023-06-20T18:18:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1160,21 +1160,6 @@
       ],
       "PostDate": "2022-03-03T19:30:04Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/macOSInstallerNotification_GM.smd"
-    },
-    "002-76369": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/18/19/002-76369-A_D886IEP6NO/6llk2o2mxi1rn921hz388cou067curii5o/002-76369.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "e2d7709ab73716712c57b549f6d85dcaf518a595",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/18/19/002-76369-A_D886IEP6NO/6llk2o2mxi1rn921hz388cou067curii5o/SafeView.pkm",
-          "Size": 28735327,
-          "URL": "http://swcdn.apple.com/content/downloads/18/19/002-76369-A_D886IEP6NO/6llk2o2mxi1rn921hz388cou067curii5o/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2023-03-14T16:44:51Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/18/19/002-76369-A_D886IEP6NO/6llk2o2mxi1rn921hz388cou067curii5o/SafeView.smd"
     },
     "012-04871": {
       "Distributions": {
