@@ -55,539 +55,539 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "Mac13,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac13,2": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,10": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,12": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,13": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,14": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,15": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,2": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,3": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,5": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,6": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,7": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,8": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Mac14,9": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookAir10,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookPro18,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookPro18,2": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookPro18,3": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "MacBookPro18,4": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "Macmini9,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "VirtualMac2,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "BuildVersion": "22G91",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           }
         },
         "iMac21,1": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
         },
         "iMac21,2": {
-          "22G90": {
+          "22G91": {
             "Restore": {
-              "BuildVersion": "22G90",
+              "BuildVersion": "22G91",
               "DocumentationURL": "",
-              "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-              "ProductVersion": "13.5.1"
+              "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+              "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+              "ProductVersion": "13.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "22G90",
+                "BuildVersion": "22G91",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "206a5a4b3bd80852ea1789e27e5764a56b9b11e2",
-                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
-                "ProductVersion": "13.5.1"
+                "FirmwareSHA1": "699cc7ce2477708b2af91dee53ca5373f25461af",
+                "FirmwareURL": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+                "ProductVersion": "13.5.2"
               }
             }
           }
