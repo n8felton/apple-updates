@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-09-26T17:04:53Z",
+  "IndexDate": "2023-09-26T17:14:39Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -52418,6 +52418,7 @@
       "State": "ramped"
     },
     "042-58988": {
+      "DeferredSUEnablementDate": "2023-09-26T07:00:00Z",
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/26/09/042-58988-A_114Q05ZS90/yudaal746aeavnzu5qdhk26uhlphm3r79u/042-58988.English.dist"
       },
@@ -52472,7 +52473,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/26/09/042-58988-A_114Q05ZS90/yudaal746aeavnzu5qdhk26uhlphm3r79u/UpdateBrain.zip"
         }
       ],
-      "PostDate": "2023-09-26T17:03:53Z",
+      "PostDate": "2023-09-26T17:05:31Z",
       "State": "ramped"
     },
     "061-10036": {
