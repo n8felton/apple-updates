@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-11-28T22:45:47Z",
+  "IndexDate": "2023-11-30T18:10:52Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -52648,6 +52648,65 @@
       ],
       "PostDate": "2023-11-09T23:05:36Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/61/31/042-97055-A_RVLKFF3SNR/g89p8hrxvhhqi4labqb4d8y2kmfb9q45ef/XProtectPlistConfigData_10_14.smd"
+    },
+    "052-09398": {
+      "DeferredSUEnablementDate": "2023-11-30T08:00:00Z",
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/052-09398.English.dist"
+      },
+      "ExtendedMetaInfo": {
+        "InstallAssistantPackageIdentifiers": {
+          "BuildManifest": "com.apple.plist.BuildManifest",
+          "Info": "com.apple.plist.Info",
+          "InstallInfo": "com.apple.plist.InstallInfo",
+          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSSonoma",
+          "UpdateBrain": "com.apple.zip.UpdateBrain"
+        }
+      },
+      "Packages": [
+        {
+          "Digest": "40413e4a9d81ccdd8c18f830d6cfd8626a75eeb1",
+          "IntegrityDataSize": 44384,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/InstallAssistant.pkg.integrityDataV1",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/InstallAssistant.pkm",
+          "Size": 12906581783,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/InstallAssistant.pkg"
+        },
+        {
+          "Digest": "efab12974edaedd1adbf5ecfa734e21fdf579e14",
+          "IntegrityDataSize": 104,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/MajorOSInfo.pkg.integrityDataV1",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/MajorOSInfo.pkm",
+          "Size": 1409585,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/MajorOSInfo.pkg"
+        },
+        {
+          "IntegrityDataSize": 104,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/BuildManifest.plist.integrityDataV1",
+          "Size": 7431603,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/BuildManifest.plist"
+        },
+        {
+          "IntegrityDataSize": 104,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/Info.plist.integrityDataV1",
+          "Size": 5129,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/Info.plist"
+        },
+        {
+          "IntegrityDataSize": 104,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/InstallInfo.plist.integrityDataV1",
+          "Size": 181,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/InstallInfo.plist"
+        },
+        {
+          "IntegrityDataSize": 104,
+          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/UpdateBrain.zip.integrityDataV1",
+          "Size": 3697887,
+          "URL": "http://swcdn.apple.com/content/downloads/24/37/052-09398-A_DIKZGBNOM0/y4rz9dued01dtyl65nxqgd08wj2ar5cr6v/UpdateBrain.zip"
+        }
+      ],
+      "PostDate": "2023-11-30T18:09:52Z",
+      "State": "ramped"
     },
     "061-10036": {
       "Distributions": {
