@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-12-11T18:57:44Z",
+  "IndexDate": "2023-12-11T21:09:59Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51554,65 +51554,6 @@
       ],
       "PostDate": "2019-10-22T20:18:44Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/39/42/041-98170-A_OGQK1R3RQN/rfmvowf9s70sx4f3d8aveyfu2286k02948/SpeechRecognitionCoreLanguagePremium_en_US.smd"
-    },
-    "042-14707": {
-      "DeferredSUEnablementDate": "2023-07-24T07:00:00Z",
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/042-14707.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "BuildManifest": "com.apple.plist.BuildManifest",
-          "Info": "com.apple.plist.Info",
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSBigSur",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "49865aee87af660fe8d17153c18f2e3504e62258",
-          "IntegrityDataSize": 42728,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/InstallAssistant.pkm",
-          "Size": 12416731958,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/InstallAssistant.pkg"
-        },
-        {
-          "Digest": "85ba060f377069cbbcaed7b7c54b60401be66bbf",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/MajorOSInfo.pkm",
-          "Size": 2633157,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/MajorOSInfo.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/BuildManifest.plist.integrityDataV1",
-          "Size": 1650394,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/BuildManifest.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/Info.plist.integrityDataV1",
-          "Size": 5781,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/Info.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/InstallInfo.plist.integrityDataV1",
-          "Size": 188,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/UpdateBrain.zip.integrityDataV1",
-          "Size": 2001112,
-          "URL": "http://swcdn.apple.com/content/downloads/52/21/042-14707-A_2UU8KFUT6R/fm457iizu501ta77tsmm11x28qgj1bpfly/UpdateBrain.zip"
-        }
-      ],
-      "PostDate": "2023-07-24T17:35:04Z",
-      "State": "ramped"
     },
     "042-43559": {
       "Distributions": {
