@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2023-12-19T21:54:25Z",
+  "IndexDate": "2023-12-19T22:14:00Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51804,65 +51804,6 @@
         }
       ],
       "PostDate": "2023-12-11T18:32:09Z",
-      "State": "ramped"
-    },
-    "052-15153": {
-      "DeferredSUEnablementDate": "2023-12-11T08:00:00Z",
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/052-15153.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "BuildManifest": "com.apple.plist.BuildManifest",
-          "Info": "com.apple.plist.Info",
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSSonoma",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "0eb25d78ebad78788cc61a246eca407d9692e2d3",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/MajorOSInfo.pkm",
-          "Size": 1409583,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/MajorOSInfo.pkg"
-        },
-        {
-          "Digest": "4b295286a721ea695a32dbc865865c469d43bff3",
-          "IntegrityDataSize": 46004,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/InstallAssistant.pkm",
-          "Size": 13379828065,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/InstallAssistant.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/BuildManifest.plist.integrityDataV1",
-          "Size": 9582750,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/BuildManifest.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/Info.plist.integrityDataV1",
-          "Size": 5378,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/Info.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/InstallInfo.plist.integrityDataV1",
-          "Size": 181,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/UpdateBrain.zip.integrityDataV1",
-          "Size": 3698948,
-          "URL": "http://swcdn.apple.com/content/downloads/06/08/052-15153-A_5BOHEN3J7Q/rwngifv0u210b0ch36rb5cqp797ys9qbul/UpdateBrain.zip"
-        }
-      ],
-      "PostDate": "2023-12-11T18:19:39Z",
       "State": "ramped"
     },
     "052-22524": {
