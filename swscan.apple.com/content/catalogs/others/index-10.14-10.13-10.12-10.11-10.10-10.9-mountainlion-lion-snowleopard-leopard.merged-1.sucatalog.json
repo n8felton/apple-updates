@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-01-08T18:13:21Z",
+  "IndexDate": "2024-01-09T18:12:52Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51555,21 +51555,6 @@
       "PostDate": "2019-10-22T20:18:44Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/39/42/041-98170-A_OGQK1R3RQN/rfmvowf9s70sx4f3d8aveyfu2286k02948/SpeechRecognitionCoreLanguagePremium_en_US.smd"
     },
-    "042-43559": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/07/45/042-43559-A_2182PW94CV/ed5l0dsvjg1ftjknb0ww8j3y0mxz2fk2vq/042-43559.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "e13812690857c2131b108c1b328fca88e45c196a",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/07/45/042-43559-A_2182PW94CV/ed5l0dsvjg1ftjknb0ww8j3y0mxz2fk2vq/EFIAllowListAll.pkm",
-          "Size": 87519100,
-          "URL": "http://swcdn.apple.com/content/downloads/07/45/042-43559-A_2182PW94CV/ed5l0dsvjg1ftjknb0ww8j3y0mxz2fk2vq/EFIAllowListAll.pkg"
-        }
-      ],
-      "PostDate": "2023-09-29T00:03:52Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/07/45/042-43559-A_2182PW94CV/ed5l0dsvjg1ftjknb0ww8j3y0mxz2fk2vq/EFIAllowListAll.smd"
-    },
     "042-45246": {
       "DeferredSUEnablementDate": "2023-09-11T07:00:00Z",
       "Distributions": {
@@ -51628,6 +51613,21 @@
       ],
       "PostDate": "2023-09-11T17:15:11Z",
       "State": "ramped"
+    },
+    "042-61203": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/44/07/042-61203-A_3HGCLOMO39/x8frdbb4aoglhkxsurlb8g8w4zcyudlb3w/042-61203.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "2a8c42f6b3c96b75db9228e69e1331763ea3ef10",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/44/07/042-61203-A_3HGCLOMO39/x8frdbb4aoglhkxsurlb8g8w4zcyudlb3w/EFIAllowListAll.pkm",
+          "Size": 87629516,
+          "URL": "http://swcdn.apple.com/content/downloads/44/07/042-61203-A_3HGCLOMO39/x8frdbb4aoglhkxsurlb8g8w4zcyudlb3w/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2024-01-09T18:08:53Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/07/042-61203-A_3HGCLOMO39/x8frdbb4aoglhkxsurlb8g8w4zcyudlb3w/EFIAllowListAll.smd"
     },
     "042-86067": {
       "Distributions": {
