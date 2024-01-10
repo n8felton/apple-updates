@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-01-10T19:11:29Z",
+  "IndexDate": "2024-01-10T19:54:16Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1145,21 +1145,6 @@
       ],
       "PostDate": "2022-02-28T21:09:49Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/46/51/002-62147-A_JOR186A0Z0/qbir6hgz2o0rsm6v3w7qm03n7109fxkefw/macOSInstallerNotification_GM.smd"
-    },
-    "002-75747": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/002-75747.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "1536bc46e861a22c7f9de661dbe08396f0b5594d",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/macOSInstallerNotification_GM.pkm",
-          "Size": 1303370,
-          "URL": "http://swcdn.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/macOSInstallerNotification_GM.pkg"
-        }
-      ],
-      "PostDate": "2022-03-03T19:30:04Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/17/30/002-75747-A_6FXW0UQJ0B/0eluk06755mq8ysolosgib9p8axnlq12yw/macOSInstallerNotification_GM.smd"
     },
     "012-04871": {
       "Distributions": {
