@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-01-22T18:42:32Z",
+  "IndexDate": "2024-01-23T18:25:58Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51785,64 +51785,6 @@
       ],
       "PostDate": "2024-01-17T02:11:43Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/02/33/052-04061-A_R46ZQ680K9/fg5xkayaqbc0jsd2bpscaskll12y4f6qs8/SFSymbolsAuto.smd"
-    },
-    "052-14528": {
-      "DeferredSUEnablementDate": "2023-12-11T08:00:00Z",
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/052-14528.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "BuildManifest": "com.apple.plist.BuildManifest",
-          "Info": "com.apple.plist.Info",
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSMonterey",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "1a2965db8cb697f95d2a95d2b78e6616f2cef541",
-          "IntegrityDataSize": 42692,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/InstallAssistant.pkm",
-          "Size": 12407422088,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/InstallAssistant.pkg"
-        },
-        {
-          "Digest": "f61e0a7cfe89362ba7abf61c2068d2b2ad0a0448",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/MajorOSInfo.pkm",
-          "Size": 1290902,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/MajorOSInfo.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/BuildManifest.plist.integrityDataV1",
-          "Size": 2211650,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/BuildManifest.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/Info.plist.integrityDataV1",
-          "Size": 5233,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/Info.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/InstallInfo.plist.integrityDataV1",
-          "Size": 188,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/UpdateBrain.zip.integrityDataV1",
-          "Size": 3185704,
-          "URL": "http://swcdn.apple.com/content/downloads/50/04/052-14528-A_IPPECDAUDT/rhoymx9618x6bk4fe7zfijtdgd55t4y2lh/UpdateBrain.zip"
-        }
-      ],
-      "PostDate": "2024-01-10T19:59:47Z"
     },
     "052-14644": {
       "DeferredSUEnablementDate": "2023-12-11T08:00:00Z",
