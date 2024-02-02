@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-02-01T21:37:35Z",
+  "IndexDate": "2024-02-01T23:35:35Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -7309,21 +7309,6 @@
       ],
       "PostDate": "2015-03-25T17:12:01Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/42/42/031-18981/aad8ihelipq499lssgks1l1vqpqfjnhhys/PhotoContentCatalogs.smd"
-    },
-    "032-01893": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/27/26/032-01893-A_6NAVIL6OJE/rle18hv8zulpc0y8ctydp5cqgn1rr6mqqo/032-01893.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "b0731de2b6894985ec751b2f5e4259478ad84cfe",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/27/26/032-01893-A_6NAVIL6OJE/rle18hv8zulpc0y8ctydp5cqgn1rr6mqqo/SafeView.pkm",
-          "Size": 28703895,
-          "URL": "http://swcdn.apple.com/content/downloads/27/26/032-01893-A_6NAVIL6OJE/rle18hv8zulpc0y8ctydp5cqgn1rr6mqqo/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2023-11-01T16:41:30Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/27/26/032-01893-A_6NAVIL6OJE/rle18hv8zulpc0y8ctydp5cqgn1rr6mqqo/SafeView.smd"
     },
     "041-79211": {
       "Distributions": {
