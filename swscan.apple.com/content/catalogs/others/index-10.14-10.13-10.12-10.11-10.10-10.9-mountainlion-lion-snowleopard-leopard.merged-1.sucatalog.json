@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-02-16T20:48:45Z",
+  "IndexDate": "2024-02-19T18:08:38Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51919,20 +51919,20 @@
       "PostDate": "2024-02-08T18:29:04Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/58/33/052-40804-A_P1XLWVRSFI/qvdagmuv963w1k83ioemnyq4ex4m3hhqoe/BridgeOSUpdateCustomer.smd"
     },
-    "052-54169": {
+    "052-57726": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/27/10/052-54169-A_B39PSQ7CTN/kwb543gqpe7s2j1l567bgict3k1l46ffg3/052-54169.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/42/03/052-57726-A_WTG6UMAKVL/q29uu8z9kndb61iiua8wtjmkhl8gf85rqt/052-57726.English.dist"
       },
       "Packages": [
         {
-          "Digest": "6f44440719f5bd082564519c3bd3d41b57928b33",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/27/10/052-54169-A_B39PSQ7CTN/kwb543gqpe7s2j1l567bgict3k1l46ffg3/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1018935,
-          "URL": "http://swcdn.apple.com/content/downloads/27/10/052-54169-A_B39PSQ7CTN/kwb543gqpe7s2j1l567bgict3k1l46ffg3/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "5a8aa568a324b3b1d63ef960ade876f2b1f9a8f6",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/42/03/052-57726-A_WTG6UMAKVL/q29uu8z9kndb61iiua8wtjmkhl8gf85rqt/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1019393,
+          "URL": "http://swcdn.apple.com/content/downloads/42/03/052-57726-A_WTG6UMAKVL/q29uu8z9kndb61iiua8wtjmkhl8gf85rqt/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2024-02-12T18:19:04Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/27/10/052-54169-A_B39PSQ7CTN/kwb543gqpe7s2j1l567bgict3k1l46ffg3/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2024-02-19T18:02:05Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/42/03/052-57726-A_WTG6UMAKVL/q29uu8z9kndb61iiua8wtjmkhl8gf85rqt/XProtectPlistConfigData_10_14.smd"
     },
     "061-10036": {
       "Distributions": {
