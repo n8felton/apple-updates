@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-03-04T18:19:29Z",
+  "IndexDate": "2024-03-04T19:25:55Z",
   "Products": {
     "001-26049": {
       "Distributions": {
@@ -14594,6 +14594,63 @@
       ],
       "PostDate": "2023-11-28T18:04:58Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/09/47/052-05924-A_ZMVOEY25FO/vqjbqy0gg4noot9eo3rc5ofibh47wp77c2/RosettaUpdateAuto.smd"
+    },
+    "052-08384": {
+      "Distributions": {
+        "Dutch": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.Dutch.dist",
+        "English": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.English.dist",
+        "French": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.French.dist",
+        "German": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.German.dist",
+        "Italian": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.Italian.dist",
+        "Japanese": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.Japanese.dist",
+        "Spanish": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.Spanish.dist",
+        "ar": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ar.dist",
+        "ca": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ca.dist",
+        "cs": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.cs.dist",
+        "da": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.da.dist",
+        "el": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.el.dist",
+        "en_AU": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.en_AU.dist",
+        "en_GB": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.en_GB.dist",
+        "es_419": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.es_419.dist",
+        "fi": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.fi.dist",
+        "fr_CA": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.fr_CA.dist",
+        "he": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.he.dist",
+        "hi": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.hi.dist",
+        "hr": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.hr.dist",
+        "hu": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.hu.dist",
+        "id": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.id.dist",
+        "ko": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ko.dist",
+        "ms": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ms.dist",
+        "no": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.no.dist",
+        "pl": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.pl.dist",
+        "pt": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.pt.dist",
+        "pt_PT": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.pt_PT.dist",
+        "ro": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ro.dist",
+        "ru": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.ru.dist",
+        "sk": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.sk.dist",
+        "sv": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.sv.dist",
+        "th": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.th.dist",
+        "tr": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.tr.dist",
+        "uk": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.uk.dist",
+        "vi": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.vi.dist",
+        "zh_CN": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.zh_CN.dist",
+        "zh_HK": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.zh_HK.dist",
+        "zh_TW": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/052-08384.zh_TW.dist"
+      },
+      "ExtendedMetaInfo": {
+        "BuildVersion": "23D2057",
+        "ProductType": "otherArchitectureHandlerOS"
+      },
+      "Packages": [
+        {
+          "Digest": "dad50d8d6eaab59eab018eaf44b618a10d1e185c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/RosettaUpdateAuto.pkm",
+          "Size": 383874,
+          "URL": "https://swcdn.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/RosettaUpdateAuto.pkg"
+        }
+      ],
+      "PostDate": "2024-03-04T19:25:50Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/25/45/052-08384-A_TMKTCWO0VK/jpakaxhhgdibgjhqh1h896rkx1tm1azsyh/RosettaUpdateAuto.smd"
     },
     "052-09365": {
       "Distributions": {
