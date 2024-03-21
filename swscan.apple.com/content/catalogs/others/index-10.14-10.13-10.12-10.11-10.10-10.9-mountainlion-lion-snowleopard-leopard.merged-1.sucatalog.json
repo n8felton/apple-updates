@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-03-21T16:44:09Z",
+  "IndexDate": "2024-03-21T20:20:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51494,21 +51494,6 @@
       ],
       "PostDate": "2019-10-22T20:18:44Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/39/42/041-98170-A_OGQK1R3RQN/rfmvowf9s70sx4f3d8aveyfu2286k02948/SpeechRecognitionCoreLanguagePremium_en_US.smd"
-    },
-    "042-04983": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/042-04983.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "da1aadc884887164c8f4a1e60813ccd4585e0e5b",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.pkm",
-          "Size": 28697382,
-          "URL": "http://swcdn.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2024-03-21T16:43:10Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.smd"
     },
     "042-45246": {
       "DeferredSUEnablementDate": "2023-09-11T07:00:00Z",
