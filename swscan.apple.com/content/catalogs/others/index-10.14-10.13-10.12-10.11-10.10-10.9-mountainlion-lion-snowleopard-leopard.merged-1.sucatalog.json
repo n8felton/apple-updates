@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-03-21T20:20:06Z",
+  "IndexDate": "2024-03-21T20:31:35Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51495,6 +51495,21 @@
       "PostDate": "2019-10-22T20:18:44Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/39/42/041-98170-A_OGQK1R3RQN/rfmvowf9s70sx4f3d8aveyfu2286k02948/SpeechRecognitionCoreLanguagePremium_en_US.smd"
     },
+    "042-04983": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/042-04983.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "da1aadc884887164c8f4a1e60813ccd4585e0e5b",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.pkm",
+          "Size": 28697382,
+          "URL": "http://swcdn.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2024-03-21T20:19:22Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/51/15/042-04983-A_UCRKIBPFRC/d4zpzkallg28zekjf3e2qsmevu06e4i735/SafeView.smd"
+    },
     "042-45246": {
       "DeferredSUEnablementDate": "2023-09-11T07:00:00Z",
       "Distributions": {
@@ -51568,21 +51583,6 @@
       ],
       "PostDate": "2024-01-09T18:08:53Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/07/042-61203-A_3HGCLOMO39/x8frdbb4aoglhkxsurlb8g8w4zcyudlb3w/EFIAllowListAll.smd"
-    },
-    "042-92443": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/33/31/042-92443-A_QQJAM54C0V/yi9u2rj2sixkncxwe02xfs27aznlta2jjt/042-92443.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "f4651bf3fc56720b37e03d5db6d4b65cc8b4bab2",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/33/31/042-92443-A_QQJAM54C0V/yi9u2rj2sixkncxwe02xfs27aznlta2jjt/SafeView.pkm",
-          "Size": 28923525,
-          "URL": "http://swcdn.apple.com/content/downloads/33/31/042-92443-A_QQJAM54C0V/yi9u2rj2sixkncxwe02xfs27aznlta2jjt/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2024-02-01T21:36:16Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/31/042-92443-A_QQJAM54C0V/yi9u2rj2sixkncxwe02xfs27aznlta2jjt/SafeView.smd"
     },
     "052-03689": {
       "Distributions": {
