@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-04-23T17:12:02Z",
+  "IndexDate": "2024-04-23T19:29:12Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51672,6 +51672,21 @@
       ],
       "PostDate": "2024-01-10T19:53:24Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.smd"
+    },
+    "052-33450": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/15/27/052-33450-A_TB7J0G4QIG/dtg49s3p2sencbkcuugo8f38r35ye3qokc/052-33450.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "8d77cb6e6cfd1614d889633f0e7837fcb336d0bc",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/15/27/052-33450-A_TB7J0G4QIG/dtg49s3p2sencbkcuugo8f38r35ye3qokc/EFIAllowListAll.pkm",
+          "Size": 87684224,
+          "URL": "http://swcdn.apple.com/content/downloads/15/27/052-33450-A_TB7J0G4QIG/dtg49s3p2sencbkcuugo8f38r35ye3qokc/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2024-04-23T19:27:26Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/15/27/052-33450-A_TB7J0G4QIG/dtg49s3p2sencbkcuugo8f38r35ye3qokc/EFIAllowListAll.smd"
     },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
