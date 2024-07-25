@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-07-24T18:56:40Z",
+  "IndexDate": "2024-07-25T18:17:37Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51643,6 +51643,21 @@
       "PostDate": "2024-01-10T19:53:24Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.smd"
     },
+    "052-40030": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/052-40030.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "d110a51ae5f5d970abc1ca336a9f00ae3b3a2add",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.pkm",
+          "Size": 28999452,
+          "URL": "http://swcdn.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2024-07-25T17:59:34Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.smd"
+    },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
       "Distributions": {
@@ -51758,21 +51773,6 @@
         }
       ],
       "PostDate": "2024-04-01T23:06:43Z"
-    },
-    "052-78634": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/10/42/052-78634-A_Y2JH0MJLC3/u0532adxaln8aq5rqa7pooj3ljvkzqwe2f/052-78634.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "b179518c9aec5af8948767f0a2dcd29f3916a6a6",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/10/42/052-78634-A_Y2JH0MJLC3/u0532adxaln8aq5rqa7pooj3ljvkzqwe2f/SafeView.pkm",
-          "Size": 28701840,
-          "URL": "http://swcdn.apple.com/content/downloads/10/42/052-78634-A_Y2JH0MJLC3/u0532adxaln8aq5rqa7pooj3ljvkzqwe2f/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2024-04-25T17:38:44Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/10/42/052-78634-A_Y2JH0MJLC3/u0532adxaln8aq5rqa7pooj3ljvkzqwe2f/SafeView.smd"
     },
     "061-10036": {
       "Distributions": {
