@@ -77,792 +77,792 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "Mac13,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac13,2": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,10": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,12": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,13": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,14": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,15": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,2": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,3": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,5": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,6": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,7": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,8": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac14,9": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,10": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,11": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,12": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,13": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,3": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,4": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,5": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,6": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,7": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,8": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Mac15,9": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookAir10,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookPro18,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookPro18,2": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookPro18,3": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "MacBookPro18,4": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "Macmini9,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "VirtualMac2,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "BuildVersion": "23G93",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           }
         },
         "iMac21,1": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
         },
         "iMac21,2": {
-          "23G80": {
+          "23G93": {
             "Restore": {
-              "BuildVersion": "23G80",
+              "BuildVersion": "23G93",
               "DocumentationURL": "",
-              "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-              "ProductVersion": "14.6"
+              "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+              "ProductVersion": "14.6.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "23G80",
+                "BuildVersion": "23G93",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "49e2cf7b46939b86bc6f4eecb709498ea5e6d132",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-69922/F5DA2B64-25EB-4370-9E89-FA5689859796/UniversalMac_14.6_23G80_Restore.ipsw",
-                "ProductVersion": "14.6"
+                "FirmwareSHA1": "eb53bb5843675c4ab86765353322841941926c90",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-52859/932E0A8F-6644-4759-82DA-F8FA8DEA806A/UniversalMac_14.6.1_23G93_Restore.ipsw",
+                "ProductVersion": "14.6.1"
               }
             }
           }
