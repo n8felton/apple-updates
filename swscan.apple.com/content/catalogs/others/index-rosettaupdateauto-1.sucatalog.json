@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-08-28T17:25:34Z",
+  "IndexDate": "2024-08-28T17:35:28Z",
   "Products": {
     "001-26049": {
       "Distributions": {
@@ -19279,6 +19279,64 @@
       ],
       "PostDate": "2024-08-28T17:14:05Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/50/41/062-72175-A_BDD2E1CT2C/kxb1k9irw6b4a4o8yy9ymm316qmisbdcwx/RosettaUpdateAuto.smd"
+    },
+    "062-74512": {
+      "Distributions": {
+        "Dutch": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.Dutch.dist",
+        "English": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.English.dist",
+        "French": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.French.dist",
+        "German": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.German.dist",
+        "Italian": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.Italian.dist",
+        "Japanese": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.Japanese.dist",
+        "Spanish": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.Spanish.dist",
+        "ar": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ar.dist",
+        "ca": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ca.dist",
+        "cs": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.cs.dist",
+        "da": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.da.dist",
+        "el": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.el.dist",
+        "en_AU": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.en_AU.dist",
+        "en_GB": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.en_GB.dist",
+        "es_419": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.es_419.dist",
+        "fi": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.fi.dist",
+        "fr_CA": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.fr_CA.dist",
+        "he": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.he.dist",
+        "hi": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.hi.dist",
+        "hr": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.hr.dist",
+        "hu": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.hu.dist",
+        "id": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.id.dist",
+        "ko": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ko.dist",
+        "ms": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ms.dist",
+        "no": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.no.dist",
+        "pl": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.pl.dist",
+        "pt": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.pt.dist",
+        "pt_PT": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.pt_PT.dist",
+        "ro": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ro.dist",
+        "ru": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.ru.dist",
+        "sk": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.sk.dist",
+        "sl": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.sl.dist",
+        "sv": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.sv.dist",
+        "th": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.th.dist",
+        "tr": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.tr.dist",
+        "uk": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.uk.dist",
+        "vi": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.vi.dist",
+        "zh_CN": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.zh_CN.dist",
+        "zh_HK": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.zh_HK.dist",
+        "zh_TW": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/062-74512.zh_TW.dist"
+      },
+      "ExtendedMetaInfo": {
+        "BuildVersion": "24B5035e",
+        "ProductType": "otherArchitectureHandlerOS"
+      },
+      "Packages": [
+        {
+          "Digest": "8849cb2ba5ec8b6a629d1490f2ce9d0362d65fb4",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/RosettaUpdateAuto.pkm",
+          "Size": 446013,
+          "URL": "https://swcdn.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/RosettaUpdateAuto.pkg"
+        }
+      ],
+      "PostDate": "2024-08-28T17:15:47Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/08/46/062-74512-A_796OIL358N/zg60119hwz57xkes7oilr0m9kwavb3n1wy/RosettaUpdateAuto.smd"
     },
     "071-00455": {
       "Distributions": {
