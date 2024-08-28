@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-08-26T21:45:25Z",
+  "IndexDate": "2024-08-28T17:12:27Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53689,21 +53689,6 @@
       ],
       "PostDate": "2024-08-14T20:44:13Z"
     },
-    "062-53777": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/07/52/062-53777-A_YE1HDV3WP9/kuf6iq9o9zgv1kd3c6yi6dayl3i9us1n5t/062-53777.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "a574d034eff931dc46f8ffab6ab1990e97dcded0",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/07/52/062-53777-A_YE1HDV3WP9/kuf6iq9o9zgv1kd3c6yi6dayl3i9us1n5t/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1206888,
-          "URL": "http://swcdn.apple.com/content/downloads/07/52/062-53777-A_YE1HDV3WP9/kuf6iq9o9zgv1kd3c6yi6dayl3i9us1n5t/XProtectPlistConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2024-08-06T19:48:04Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/07/52/062-53777-A_YE1HDV3WP9/kuf6iq9o9zgv1kd3c6yi6dayl3i9us1n5t/XProtectPlistConfigData_10_14.smd"
-    },
     "062-53951": {
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/03/13/062-53951-A_9YSJVTG5B0/ueo4qgpu8yyyycvrvyxp5qra88qkl6uc3w/062-53951.Dutch.dist",
@@ -53830,6 +53815,21 @@
         }
       ],
       "PostDate": "2024-08-14T20:43:29Z"
+    },
+    "062-59184": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/30/43/062-59184-A_CN56M5YCQE/racac5i2oarckbjttldnfu3jrqy7oylq6o/062-59184.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "11d704ea19ed1b5b639c8cd9bf5094b7896b2842",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/30/43/062-59184-A_CN56M5YCQE/racac5i2oarckbjttldnfu3jrqy7oylq6o/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1207251,
+          "URL": "http://swcdn.apple.com/content/downloads/30/43/062-59184-A_CN56M5YCQE/racac5i2oarckbjttldnfu3jrqy7oylq6o/XProtectPlistConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2024-08-28T17:03:36Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/43/062-59184-A_CN56M5YCQE/racac5i2oarckbjttldnfu3jrqy7oylq6o/XProtectPlistConfigData_10_14.smd"
     },
     "071-05177": {
       "DeferredSUEnablementDate": "2021-02-09T08:00:00Z",
