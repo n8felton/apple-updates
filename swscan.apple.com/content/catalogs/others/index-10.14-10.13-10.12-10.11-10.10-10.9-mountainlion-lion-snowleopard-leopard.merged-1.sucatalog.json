@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-09-24T16:31:29Z",
+  "IndexDate": "2024-09-24T16:44:44Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51583,21 +51583,6 @@
       ],
       "PostDate": "2024-01-10T19:53:24Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.smd"
-    },
-    "052-40030": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/052-40030.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "d110a51ae5f5d970abc1ca336a9f00ae3b3a2add",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.pkm",
-          "Size": 28999452,
-          "URL": "http://swcdn.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2024-07-25T17:59:34Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/17/43/052-40030-A_XNNRMFM10N/mf8xtyam7zlhegd3po8veo973v8nkiii0m/SafeView.smd"
     },
     "052-42558": {
       "Distributions": {
