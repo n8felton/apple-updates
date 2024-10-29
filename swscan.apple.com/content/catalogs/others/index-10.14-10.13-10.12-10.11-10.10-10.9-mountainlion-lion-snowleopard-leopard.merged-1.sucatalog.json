@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-10-29T16:11:47Z",
+  "IndexDate": "2024-10-29T18:07:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53857,6 +53857,21 @@
       ],
       "PostDate": "2024-09-16T17:42:25Z",
       "State": "ramped"
+    },
+    "062-87114": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/41/42/062-87114-A_ETO8HKOPX6/lr5a5c6q2novwko9lut1e6jiv1vucmcqru/062-87114.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "fc699d7b9639057a61b870abd62017d058218eaa",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/41/42/062-87114-A_ETO8HKOPX6/lr5a5c6q2novwko9lut1e6jiv1vucmcqru/SafeView.pkm",
+          "Size": 29765908,
+          "URL": "http://swcdn.apple.com/content/downloads/41/42/062-87114-A_ETO8HKOPX6/lr5a5c6q2novwko9lut1e6jiv1vucmcqru/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2024-10-29T18:04:48Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/41/42/062-87114-A_ETO8HKOPX6/lr5a5c6q2novwko9lut1e6jiv1vucmcqru/SafeView.smd"
     },
     "071-05177": {
       "DeferredSUEnablementDate": "2021-02-09T08:00:00Z",
