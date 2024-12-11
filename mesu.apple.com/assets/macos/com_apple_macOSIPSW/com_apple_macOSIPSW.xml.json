@@ -670,207 +670,207 @@
           }
         },
         "Mac16,1": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,10": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,11": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,2": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,3": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,5": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,6": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,7": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
           }
         },
         "Mac16,8": {
-          "24C2101": {
+          "24C101": {
             "Restore": {
-              "BuildVersion": "24C2101",
+              "BuildVersion": "24C101",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+              "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+              "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
               "ProductVersion": "15.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24C2101",
+                "BuildVersion": "24C101",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c8aa2a846b4d5ffc8e490607d9e306e52a50cd52",
-                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-41951/5790575D-5E1C-472E-8CC2-86E297A25AFD/UniversalMac_15.2_24C2101_Restore.ipsw",
+                "FirmwareSHA1": "2728cc52d32c9bfe6182833eab9720a928d3666a",
+                "FirmwareURL": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
                 "ProductVersion": "15.2"
               }
             }
