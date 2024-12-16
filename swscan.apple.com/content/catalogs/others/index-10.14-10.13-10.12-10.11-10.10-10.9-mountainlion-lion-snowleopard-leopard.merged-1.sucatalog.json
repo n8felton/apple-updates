@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2024-12-16T18:12:41Z",
+  "IndexDate": "2024-12-13T20:36:12Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53600,6 +53600,21 @@
       ],
       "PostDate": "2024-08-14T20:44:13Z"
     },
+    "062-53561": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/41/48/062-53561-A_IBAIPGO5ZH/kopnjuca0rdynxczo1f9t7jl19ka28cpj2/062-53561.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "cee4f613959a24f4d86677e1873d426ffd435799",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/41/48/062-53561-A_IBAIPGO5ZH/kopnjuca0rdynxczo1f9t7jl19ka28cpj2/EFIAllowListAll.pkm",
+          "Size": 87719305,
+          "URL": "http://swcdn.apple.com/content/downloads/41/48/062-53561-A_IBAIPGO5ZH/kopnjuca0rdynxczo1f9t7jl19ka28cpj2/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2024-08-28T17:14:56Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/41/48/062-53561-A_IBAIPGO5ZH/kopnjuca0rdynxczo1f9t7jl19ka28cpj2/EFIAllowListAll.smd"
+    },
     "062-58676": {
       "DeferredSUEnablementDate": "2024-08-07T07:00:00Z",
       "Distributions": {
@@ -53657,21 +53672,6 @@
         }
       ],
       "PostDate": "2024-08-14T20:43:29Z"
-    },
-    "062-77385": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/062-77385.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "e9eb0d982f31889817fa91235cfcb84a4a9303d4",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.pkm",
-          "Size": 87724327,
-          "URL": "http://swcdn.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.pkg"
-        }
-      ],
-      "PostDate": "2024-12-16T18:09:57Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.smd"
     },
     "062-87114": {
       "Distributions": {
