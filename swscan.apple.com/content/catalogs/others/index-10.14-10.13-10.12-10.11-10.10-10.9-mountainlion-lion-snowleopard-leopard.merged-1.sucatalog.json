@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-01-13T19:33:47Z",
+  "IndexDate": "2025-01-14T18:01:57Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54353,20 +54353,20 @@
       "PostDate": "2024-12-11T18:38:30Z",
       "State": "ramped"
     },
-    "072-45609": {
+    "072-60141": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/42/59/072-45609-A_PSYS1VYJ1Y/9582tn6kqwypkmeywewmxgi615xs69acx9/072-45609.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/26/38/072-60141-A_JSMT755HB5/yp3c4ryy0k67zzg7upsdcira5hd2y09vrb/072-60141.English.dist"
       },
       "Packages": [
         {
-          "Digest": "f6f096b33a1bfdf318dd468cb9148eba0857e659",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/42/59/072-45609-A_PSYS1VYJ1Y/9582tn6kqwypkmeywewmxgi615xs69acx9/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1216835,
-          "URL": "http://swcdn.apple.com/content/downloads/42/59/072-45609-A_PSYS1VYJ1Y/9582tn6kqwypkmeywewmxgi615xs69acx9/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "467bcdeefd4a59cba167b601ef403c67fbafbaf0",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/26/38/072-60141-A_JSMT755HB5/yp3c4ryy0k67zzg7upsdcira5hd2y09vrb/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1216893,
+          "URL": "http://swcdn.apple.com/content/downloads/26/38/072-60141-A_JSMT755HB5/yp3c4ryy0k67zzg7upsdcira5hd2y09vrb/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2024-12-17T18:04:54Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/42/59/072-45609-A_PSYS1VYJ1Y/9582tn6kqwypkmeywewmxgi615xs69acx9/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2025-01-14T17:53:46Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/26/38/072-60141-A_JSMT755HB5/yp3c4ryy0k67zzg7upsdcira5hd2y09vrb/XProtectPlistConfigData_10_14.smd"
     },
     "091-76740": {
       "Distributions": {
