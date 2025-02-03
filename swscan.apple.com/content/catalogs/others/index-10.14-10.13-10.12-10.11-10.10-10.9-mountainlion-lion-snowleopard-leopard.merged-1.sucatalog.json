@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-02-03T18:14:22Z",
+  "IndexDate": "2025-02-03T18:25:12Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51569,21 +51569,6 @@
       "PostDate": "2024-09-27T21:13:35Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/32/58/042-53422-A_OP3G7OJXWM/xyxa4f6t4sj2w63lwkrv23j1kw9qdv3tod/SFSymbolsAuto.smd"
     },
-    "052-25574": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/052-25574.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "3d31382f9d7c867b657ce2617d6e3252e78f85d6",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.pkm",
-          "Size": 1497645,
-          "URL": "http://swcdn.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.pkg"
-        }
-      ],
-      "PostDate": "2024-01-10T19:53:24Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/49/10/052-25574-A_0WEX5B0K6Z/4mljt2gwcjj8o1za1p0urmdxm3tdysm8lj/macOSInstallerNotification_RC.smd"
-    },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
       "Distributions": {
@@ -54403,6 +54388,21 @@
       ],
       "PostDate": "2024-12-11T18:38:30Z",
       "State": "ramped"
+    },
+    "072-56999": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/072-56999.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "8333b92b764e64e31d62d48ff619119c41fc976f",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/macOSInstallerNotification_RC.pkm",
+          "Size": 1344965,
+          "URL": "http://swcdn.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/macOSInstallerNotification_RC.pkg"
+        }
+      ],
+      "PostDate": "2025-02-03T18:15:00Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/macOSInstallerNotification_RC.smd"
     },
     "072-61270": {
       "DeferredSUEnablementDate": "2025-01-27T08:00:00Z",
