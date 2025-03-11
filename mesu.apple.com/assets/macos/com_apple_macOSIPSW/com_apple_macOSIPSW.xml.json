@@ -7,6 +7,7 @@
       "100687936": "Mac16,7",
       "100687937": "Mac16,5",
       "1140875313": "Mac15,8",
+      "1140875314": "Mac15,14",
       "1140875316": "Mac15,10",
       "1174429745": "Mac15,9",
       "1174429748": "Mac15,11",
@@ -20,6 +21,7 @@
       "201351170": "Mac13,2",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
+      "33579073": "Mac16,9",
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
@@ -41,7 +43,9 @@
       "704676114": "Mac14,7",
       "704676130": "Mac15,5",
       "704676146": "Mac16,11",
+      "738230578": "Mac16,12",
       "771784978": "Mac14,15",
+      "771785010": "Mac16,13",
       "805339426": "Mac15,12",
       "838893858": "Mac15,13"
     },
@@ -52,6 +56,7 @@
       "100687936": "Mac16,7",
       "100687937": "Mac16,5",
       "1140875313": "Mac15,8",
+      "1140875314": "Mac15,14",
       "1140875316": "Mac15,10",
       "1174429745": "Mac15,9",
       "1174429748": "Mac15,11",
@@ -65,6 +70,7 @@
       "201351170": "Mac13,2",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
+      "33579073": "Mac16,9",
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
@@ -86,7 +92,9 @@
       "704676114": "Mac14,7",
       "704676130": "Mac15,5",
       "704676146": "Mac16,11",
+      "738230578": "Mac16,12",
       "771784978": "Mac14,15",
+      "771785010": "Mac16,13",
       "805339426": "Mac15,12",
       "838893858": "Mac15,13"
     }
@@ -95,999 +103,1091 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "Mac13,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac13,2": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,10": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,12": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,13": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,14": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,15": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,2": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,3": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,5": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,6": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,7": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,8": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac14,9": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,10": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,11": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,12": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,13": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
+              }
+            }
+          }
+        },
+        "Mac15,14": {
+          "24D2082": {
+            "Restore": {
+              "BuildVersion": "24D2082",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+              "ProductVersion": "15.3.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "24D2082",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,3": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,4": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,5": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,6": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,7": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,8": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac15,9": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,10": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,11": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
+              }
+            }
+          }
+        },
+        "Mac16,12": {
+          "24D2082": {
+            "Restore": {
+              "BuildVersion": "24D2082",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+              "ProductVersion": "15.3.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "24D2082",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+                "ProductVersion": "15.3.2"
+              }
+            }
+          }
+        },
+        "Mac16,13": {
+          "24D2082": {
+            "Restore": {
+              "BuildVersion": "24D2082",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+              "ProductVersion": "15.3.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "24D2082",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,2": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,3": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,5": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,6": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,7": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Mac16,8": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
+              }
+            }
+          }
+        },
+        "Mac16,9": {
+          "24D2082": {
+            "Restore": {
+              "BuildVersion": "24D2082",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+              "ProductVersion": "15.3.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "24D2082",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "3f90eeec1d9cecb2a39a0dd13c5190e3d549c27b",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-04090/64618943-2D74-423D-8493-DE066DF1ADD8/UniversalMac_15.3.2_24D2082_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookAir10,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookPro18,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookPro18,2": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookPro18,3": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "MacBookPro18,4": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "Macmini9,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "VirtualMac2,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "BuildVersion": "24D81",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           }
         },
         "iMac21,1": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
         },
         "iMac21,2": {
-          "24D70": {
+          "24D81": {
             "Restore": {
-              "BuildVersion": "24D70",
+              "BuildVersion": "24D81",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-              "ProductVersion": "15.3.1"
+              "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+              "ProductVersion": "15.3.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "24D70",
+                "BuildVersion": "24D81",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c2b5bca53c6cf475e7a2a0b6d6c0db19477d69eb",
-                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/072-70618/42F1A8CC-7E07-4329-958A-757FF600C303/UniversalMac_15.3.1_24D70_Restore.ipsw",
-                "ProductVersion": "15.3.1"
+                "FirmwareSHA1": "733f4cabbc34c9af72e86ebd5f2ea4e1dcbcfc96",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025WinterFCS/fullrestores/082-01504/828B8EF9-8134-49D5-B24A-0BA504FC5ECC/UniversalMac_15.3.2_24D81_Restore.ipsw",
+                "ProductVersion": "15.3.2"
               }
             }
           }
