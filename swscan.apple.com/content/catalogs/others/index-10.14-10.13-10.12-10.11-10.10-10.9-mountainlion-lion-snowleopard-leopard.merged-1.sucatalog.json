@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-03-17T15:13:38Z",
+  "IndexDate": "2025-03-18T17:39:03Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53469,21 +53469,6 @@
       "PostDate": "2020-04-16T17:03:28Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/48/61/061-97204/zjcotww2iqibyvy6wbx3q9d50ca4lhig85/BootCampESD.smd"
     },
-    "062-77385": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/062-77385.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "e9eb0d982f31889817fa91235cfcb84a4a9303d4",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.pkm",
-          "Size": 87724327,
-          "URL": "http://swcdn.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.pkg"
-        }
-      ],
-      "PostDate": "2024-12-16T18:09:57Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/50/63/062-77385-A_F2WD306PGD/j1og2hfftzmb79faict3wm7kg9nrao4nom/EFIAllowListAll.smd"
-    },
     "071-05177": {
       "DeferredSUEnablementDate": "2021-02-09T08:00:00Z",
       "Distributions": {
@@ -54208,6 +54193,21 @@
       ],
       "PostDate": "2024-12-11T18:38:30Z",
       "State": "ramped"
+    },
+    "072-54854": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/20/47/072-54854-A_HI83QTWHPU/c3frqvr4566d5eplysnzmqnpk4vuuqmnxh/072-54854.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "9917fbdcaafbffff46c4f987c0c16ca693cc64e7",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/20/47/072-54854-A_HI83QTWHPU/c3frqvr4566d5eplysnzmqnpk4vuuqmnxh/EFIAllowListAll.pkm",
+          "Size": 87731261,
+          "URL": "http://swcdn.apple.com/content/downloads/20/47/072-54854-A_HI83QTWHPU/c3frqvr4566d5eplysnzmqnpk4vuuqmnxh/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2025-03-18T17:30:53Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/47/072-54854-A_HI83QTWHPU/c3frqvr4566d5eplysnzmqnpk4vuuqmnxh/EFIAllowListAll.smd"
     },
     "072-56999": {
       "Distributions": {
