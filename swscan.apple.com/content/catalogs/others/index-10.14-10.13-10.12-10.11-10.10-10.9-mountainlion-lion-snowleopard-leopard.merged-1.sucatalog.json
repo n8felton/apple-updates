@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-03-19T20:20:43Z",
+  "IndexDate": "2025-03-20T17:44:40Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54567,7 +54567,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/37/12/072-95746-A_T54YZ6K99C/vxxn5o4n4bsmuvdv4vaevtqejubx9eehyy/MobileDeviceOnDemand.smd"
     },
     "082-01336": {
-      "DeferredSUEnablementDate": "2025-03-11T07:00:00Z",
+      "DeferredSUEnablementDate": "2025-03-20T07:00:00Z",
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/62/63/082-01336-A_QFPSTWIJMM/yjbdoqrcvwy4hwiwxiu1aiwouljw5o2ayx/082-01336.English.dist"
       },
@@ -54615,8 +54615,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/62/63/082-01336-A_QFPSTWIJMM/yjbdoqrcvwy4hwiwxiu1aiwouljw5o2ayx/com_apple_MobileAsset_MacSoftwareUpdate.plist"
         }
       ],
-      "PostDate": "2025-03-11T17:52:42Z",
-      "State": "ramped"
+      "PostDate": "2025-03-20T17:33:29Z"
     },
     "082-01430": {
       "Distributions": {
@@ -54689,7 +54688,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/63/082-01430-A_HRCVNCNGX3/r9n3wnxcipkh66di0q0vo5rbxfb1ghmwuf/BridgeOSUpdateCustomer.smd"
     },
     "082-04099": {
-      "DeferredSUEnablementDate": "2025-03-11T07:00:00Z",
+      "DeferredSUEnablementDate": "2025-03-20T07:00:00Z",
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/01/51/082-04099-A_5FSIOBKFKK/xjz2e7x52ajvp10tytehv9364baqaanrim/082-04099.English.dist"
       },
@@ -54737,8 +54736,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/01/51/082-04099-A_5FSIOBKFKK/xjz2e7x52ajvp10tytehv9364baqaanrim/com_apple_MobileAsset_MacSoftwareUpdate.plist"
         }
       ],
-      "PostDate": "2025-03-11T17:55:38Z",
-      "State": "ramped"
+      "PostDate": "2025-03-20T17:34:04Z"
     },
     "082-06000": {
       "Distributions": {
