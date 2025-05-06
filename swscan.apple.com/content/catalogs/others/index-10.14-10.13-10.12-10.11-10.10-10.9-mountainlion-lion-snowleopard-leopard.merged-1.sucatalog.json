@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-05-06T16:03:18Z",
+  "IndexDate": "2025-05-06T17:25:00Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54009,21 +54009,6 @@
       ],
       "PostDate": "2025-02-03T18:13:20Z"
     },
-    "072-14191": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/23/30/072-14191-A_XNH5C6N0IJ/fw3rw68ffevyfc2bbav1ixhr902lijxjo5/072-14191.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "c797f6698f67893658e1afb501a1a809385287e6",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/23/30/072-14191-A_XNH5C6N0IJ/fw3rw68ffevyfc2bbav1ixhr902lijxjo5/SafeView.pkm",
-          "Size": 29795420,
-          "URL": "http://swcdn.apple.com/content/downloads/23/30/072-14191-A_XNH5C6N0IJ/fw3rw68ffevyfc2bbav1ixhr902lijxjo5/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2025-02-13T17:57:27Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/23/30/072-14191-A_XNH5C6N0IJ/fw3rw68ffevyfc2bbav1ixhr902lijxjo5/SafeView.smd"
-    },
     "072-54854": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/20/47/072-54854-A_HI83QTWHPU/c3frqvr4566d5eplysnzmqnpk4vuuqmnxh/072-54854.English.dist"
@@ -54336,6 +54321,21 @@
         }
       ],
       "PostDate": "2025-02-17T18:05:54Z"
+    },
+    "072-89842": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/44/46/072-89842-A_AOUM4OAFZG/9iy35rw8hvwpf5hasf5e2d6w05knx9a9b7/072-89842.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "aa9ddf0b4ab1e919f9de6df4811bb35be682370b",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/44/46/072-89842-A_AOUM4OAFZG/9iy35rw8hvwpf5hasf5e2d6w05knx9a9b7/SafeView.pkm",
+          "Size": 29798381,
+          "URL": "http://swcdn.apple.com/content/downloads/44/46/072-89842-A_AOUM4OAFZG/9iy35rw8hvwpf5hasf5e2d6w05knx9a9b7/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2025-05-06T17:00:58Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/46/072-89842-A_AOUM4OAFZG/9iy35rw8hvwpf5hasf5e2d6w05knx9a9b7/SafeView.smd"
     },
     "082-01336": {
       "DeferredSUEnablementDate": "2025-03-20T07:00:00Z",
