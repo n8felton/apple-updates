@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-05-19T19:54:25Z",
+  "IndexDate": "2025-05-19T20:21:15Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53957,57 +53957,6 @@
       ],
       "PostDate": "2021-09-24T17:30:12Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/16/071-89247-A_FL3O60MWEW/t9239srrs8ctufwxntefzkmvjhdqzvllb2/Safari14.1.2MojaveAuto.smd"
-    },
-    "072-08251": {
-      "DeferredSUEnablementDate": "2025-01-27T08:00:00Z",
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/072-08251.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "MobileAssetUpdateBundlePlist": "com.apple.plist.MobileAsset.MacSoftwareUpdate",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSSequoia",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "58988073afcdf0ad331236e259a6dede051c4bf0",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/MajorOSInfo.pkm",
-          "Size": 1255115,
-          "URL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/MajorOSInfo.pkg"
-        },
-        {
-          "Digest": "c38ae836d768c389aba2e82dfbe4b69da21779cf",
-          "IntegrityDataSize": 52448,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallAssistant.pkm",
-          "Size": 15246633557,
-          "URL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallAssistant.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallInfo.plist.integrityDataV1",
-          "Size": 181,
-          "URL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/UpdateBrain.zip.integrityDataV1",
-          "Size": 3962817,
-          "URL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/UpdateBrain.zip"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/com_apple_MobileAsset_MacSoftwareUpdate.plist.integrityDataV1",
-          "Size": 1301590,
-          "URL": "http://swcdn.apple.com/content/downloads/11/60/072-08251-A_VJ2TWIZ7CM/mrkdsdl45umr07vwe27n8hfvubidmxgcbk/com_apple_MobileAsset_MacSoftwareUpdate.plist"
-        }
-      ],
-      "PostDate": "2025-02-03T18:13:20Z"
     },
     "072-54854": {
       "Distributions": {
