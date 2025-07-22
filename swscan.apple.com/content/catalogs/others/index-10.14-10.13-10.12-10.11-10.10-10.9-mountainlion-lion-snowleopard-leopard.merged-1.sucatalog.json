@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-07-21T20:57:52Z",
+  "IndexDate": "2025-07-22T17:19:05Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54787,20 +54787,20 @@
       "PostDate": "2025-05-12T17:12:24Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/08/40/082-44461-A_DA97FRBNK5/e5etmoulq206naxsxlscy5mwpv3k58iozr/BridgeOSUpdateCustomer.smd"
     },
-    "082-75749": {
+    "082-87279": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/30/28/082-75749-A_W3XVWAVNQ9/ya0z4kabbcrx7o6iolf6uj8ftdr6lzwxs8/082-75749.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/45/12/082-87279-A_HXDLLP2QWC/lijt82qa1f1sedsl7xvvsgqe8kamcct9pi/082-87279.English.dist"
       },
       "Packages": [
         {
-          "Digest": "25291b97585574b2d7c3d480582559dcede269b9",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/30/28/082-75749-A_W3XVWAVNQ9/ya0z4kabbcrx7o6iolf6uj8ftdr6lzwxs8/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1234311,
-          "URL": "http://swcdn.apple.com/content/downloads/30/28/082-75749-A_W3XVWAVNQ9/ya0z4kabbcrx7o6iolf6uj8ftdr6lzwxs8/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "6c6c7b67b1dbc235cd23fe8ed4d352cc459801f6",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/45/12/082-87279-A_HXDLLP2QWC/lijt82qa1f1sedsl7xvvsgqe8kamcct9pi/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1234667,
+          "URL": "http://swcdn.apple.com/content/downloads/45/12/082-87279-A_HXDLLP2QWC/lijt82qa1f1sedsl7xvvsgqe8kamcct9pi/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2025-07-15T18:24:31Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/28/082-75749-A_W3XVWAVNQ9/ya0z4kabbcrx7o6iolf6uj8ftdr6lzwxs8/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2025-07-22T17:04:23Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/45/12/082-87279-A_HXDLLP2QWC/lijt82qa1f1sedsl7xvvsgqe8kamcct9pi/XProtectPlistConfigData_10_14.smd"
     },
     "091-76740": {
       "Distributions": {
