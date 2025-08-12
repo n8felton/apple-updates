@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-08-12T17:59:15Z",
+  "IndexDate": "2025-08-12T18:11:52Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54968,21 +54968,6 @@
       ],
       "PostDate": "2018-04-05T17:17:49Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/59/54/091-76740/1c7y4dhrwoq0fccao8c7qvvtmlyp6xi6l4/NRT.smd"
-    },
-    "093-03190": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/18/27/093-03190-A_WCTV1JOTMQ/6glawtc3fr10zay1oo4dgb9qd0yvp579ny/093-03190.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "4012501133b1ca7a874cc7c42f15d1bd0cd012bd",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/18/27/093-03190-A_WCTV1JOTMQ/6glawtc3fr10zay1oo4dgb9qd0yvp579ny/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1234786,
-          "URL": "http://swcdn.apple.com/content/downloads/18/27/093-03190-A_WCTV1JOTMQ/6glawtc3fr10zay1oo4dgb9qd0yvp579ny/XProtectPlistConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2025-08-05T18:41:11Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/18/27/093-03190-A_WCTV1JOTMQ/6glawtc3fr10zay1oo4dgb9qd0yvp579ny/XProtectPlistConfigData_10_14.smd"
     },
     "093-10351": {
       "Distributions": {
