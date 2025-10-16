@@ -25,6 +25,7 @@
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
+      "570458434": "Mac17,2",
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
@@ -74,6 +75,7 @@
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
+      "570458434": "Mac17,2",
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
@@ -971,6 +973,29 @@
                 "EpochVersion": "1",
                 "FirmwareSHA1": "366f90ed1bdfd35217dd23dc2c447d0dba2d68dc",
                 "FirmwareURL": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-50898/60AE7E97-3E60-441B-9B34-E603C694C5C1/UniversalMac_26.0.1_25A362_Restore.ipsw",
+                "ProductVersion": "26.0.1"
+              }
+            }
+          }
+        },
+        "Mac17,2": {
+          "25A8364": {
+            "Restore": {
+              "BuildVersion": "25A8364",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "be38c66a78ae4c31833fd80a02ac097773f453bf",
+              "FirmwareURL": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-49300/3AC98479-C75E-46E8-8AF4-1DDB5EAE564D/UniversalMac_26.0.1_25A8364_Restore.ipsw",
+              "ProductVersion": "26.0.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25A8364",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "be38c66a78ae4c31833fd80a02ac097773f453bf",
+                "FirmwareURL": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/093-49300/3AC98479-C75E-46E8-8AF4-1DDB5EAE564D/UniversalMac_26.0.1_25A8364_Restore.ipsw",
                 "ProductVersion": "26.0.1"
               }
             }
