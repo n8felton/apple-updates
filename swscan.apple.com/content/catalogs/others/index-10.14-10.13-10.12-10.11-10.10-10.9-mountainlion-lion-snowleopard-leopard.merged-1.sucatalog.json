@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2025-10-22T21:41:16Z",
+  "IndexDate": "2025-10-23T01:59:02Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55564,20 +55564,20 @@
       "PostDate": "2025-10-15T23:02:51Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/29/55/093-63076-A_9B6CEPMG6W/qomg6emzngs4pftmpapi5hxwuvnu2t0wig/MobileDeviceOnDemand.smd"
     },
-    "093-89718": {
+    "093-89940": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/63/11/093-89718-A_QT4EUZCY9V/cwr364d9j9eto1n0j2cbbchij6sg90zpln/093-89718.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/34/40/093-89940-A_O5SH1JML3Q/p488kfzci04b3paot7vfs5e9u5etsd4eij/093-89940.English.dist"
       },
       "Packages": [
         {
-          "Digest": "46782d5016ea3617355e2c973264a9709c7ff102",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/63/11/093-89718-A_QT4EUZCY9V/cwr364d9j9eto1n0j2cbbchij6sg90zpln/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1240743,
-          "URL": "http://swcdn.apple.com/content/downloads/63/11/093-89718-A_QT4EUZCY9V/cwr364d9j9eto1n0j2cbbchij6sg90zpln/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "8580ac8243b033f556f2cc52ee0c79d4f8847053",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/34/40/093-89940-A_O5SH1JML3Q/p488kfzci04b3paot7vfs5e9u5etsd4eij/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1240748,
+          "URL": "http://swcdn.apple.com/content/downloads/34/40/093-89940-A_O5SH1JML3Q/p488kfzci04b3paot7vfs5e9u5etsd4eij/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2025-10-21T17:28:46Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/63/11/093-89718-A_QT4EUZCY9V/cwr364d9j9eto1n0j2cbbchij6sg90zpln/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2025-10-23T01:48:46Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/34/40/093-89940-A_O5SH1JML3Q/p488kfzci04b3paot7vfs5e9u5etsd4eij/XProtectPlistConfigData_10_14.smd"
     },
     "zzz041-87980": {
       "Distributions": {
