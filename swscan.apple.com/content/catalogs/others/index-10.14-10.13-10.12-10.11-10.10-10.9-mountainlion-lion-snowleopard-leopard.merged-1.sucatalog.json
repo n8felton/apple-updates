@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-01-13T18:57:15Z",
+  "IndexDate": "2026-01-13T19:06:25Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53972,21 +53972,6 @@
       ],
       "PostDate": "2025-02-03T18:15:00Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/macOSInstallerNotification_RC.smd"
-    },
-    "082-28395": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/16/45/082-28395-A_NLQ04LEWXN/ormbgpot4khjkjgbmrm7ooz399w6xluxws/082-28395.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "0c8a6085216efb747865b593e1a386aec6eeb27c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/16/45/082-28395-A_NLQ04LEWXN/ormbgpot4khjkjgbmrm7ooz399w6xluxws/SFSymbolsAuto.pkm",
-          "Size": 482562728,
-          "URL": "http://swcdn.apple.com/content/downloads/16/45/082-28395-A_NLQ04LEWXN/ormbgpot4khjkjgbmrm7ooz399w6xluxws/SFSymbolsAuto.pkg"
-        }
-      ],
-      "PostDate": "2025-09-15T21:51:14Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/16/45/082-28395-A_NLQ04LEWXN/ormbgpot4khjkjgbmrm7ooz399w6xluxws/SFSymbolsAuto.smd"
     },
     "082-71738": {
       "DeferredSUEnablementDate": "2025-10-17T07:00:00Z",
