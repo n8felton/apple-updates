@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-01-08T23:29:12Z",
+  "IndexDate": "2026-01-13T18:57:15Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54090,6 +54090,21 @@
       ],
       "PostDate": "2025-11-03T21:40:48Z",
       "State": "ramped"
+    },
+    "089-38703": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/089-38703.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "beb51343aee914b7b84c8934ecb94d5247a986d9",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.pkm",
+          "Size": 484547791,
+          "URL": "http://swcdn.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.pkg"
+        }
+      ],
+      "PostDate": "2026-01-13T18:55:21Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.smd"
     },
     "089-70987": {
       "DeferredSUEnablementDate": "2025-12-12T08:00:00Z",
