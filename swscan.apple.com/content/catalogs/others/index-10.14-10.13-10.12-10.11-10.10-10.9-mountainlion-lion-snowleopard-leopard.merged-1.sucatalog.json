@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-01-28T23:17:23Z",
+  "IndexDate": "2026-01-29T00:42:22Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -867,46 +867,6 @@
       ],
       "PostDate": "2020-10-27T17:28:13Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/61/24/001-57224/0o1xetys5n505gocjsil5qo0p4kg939elb/InstallAssistantAuto.smd"
-    },
-    "001-62840": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.English.dist",
-        "French": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.French.dist",
-        "German": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.German.dist",
-        "Japanese": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.Japanese.dist",
-        "Spanish": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.Spanish.dist",
-        "zh_CN": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/001-62840.zh_CN.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "103bec5077a1bc028728f851a99ee43ff77b2df2",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/FCPContent.pkm",
-          "Size": 637130871,
-          "URL": "http://swcdn.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/FCPContent.pkg"
-        }
-      ],
-      "PostDate": "2020-11-12T22:50:34Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/32/001-62840-A_PQYH83UNMC/4n6apgmfnvdphtworoku32afchv2ektavr/FCPContent.smd"
-    },
-    "001-62842": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.English.dist",
-        "French": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.French.dist",
-        "German": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.German.dist",
-        "Japanese": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.Japanese.dist",
-        "Spanish": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.Spanish.dist",
-        "zh_CN": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/001-62842.zh_CN.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "4e4350eff7844d55eb8d343be52207c7885f9e2c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/MotionContent.pkm",
-          "Size": 1117646669,
-          "URL": "http://swcdn.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/MotionContent.pkg"
-        }
-      ],
-      "PostDate": "2020-11-12T22:52:54Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/11/20/001-62842-A_04F20J8DZP/oisnp0kktv7nwxq56qgqk4hm7lvupwtov8/MotionContent.smd"
     },
     "001-68446": {
       "Distributions": {
