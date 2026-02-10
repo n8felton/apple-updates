@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-02-09T20:24:38Z",
+  "IndexDate": "2026-02-10T18:24:46Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51572,21 +51572,6 @@
       ],
       "PostDate": "2026-02-02T18:46:21Z"
     },
-    "047-49507": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/18/27/047-49507-A_ICGJPAGT7E/vuoug27n9rxc3jcxtgb3v89g776wlgoipg/047-49507.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "41b130bc10494b29d671a6afc25e22173d93078a",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/18/27/047-49507-A_ICGJPAGT7E/vuoug27n9rxc3jcxtgb3v89g776wlgoipg/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1245432,
-          "URL": "http://swcdn.apple.com/content/downloads/18/27/047-49507-A_ICGJPAGT7E/vuoug27n9rxc3jcxtgb3v89g776wlgoipg/XProtectPlistConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2026-02-03T18:00:37Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/18/27/047-49507-A_ICGJPAGT7E/vuoug27n9rxc3jcxtgb3v89g776wlgoipg/XProtectPlistConfigData_10_14.smd"
-    },
     "047-52788": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/25/42/047-52788-A_LYZF59F2AX/drxlgqysqlor6np1025hmsx45n1uc4qfef/047-52788.English.dist"
@@ -51614,6 +51599,36 @@
         }
       ],
       "PostDate": "2026-02-02T22:45:30Z"
+    },
+    "047-60073": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/047-60073.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "b0e63f0792e0c320536a2dfa1439773a31078252",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/SFSymbolsAuto.pkm",
+          "Size": 484548186,
+          "URL": "http://swcdn.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/SFSymbolsAuto.pkg"
+        }
+      ],
+      "PostDate": "2026-02-10T18:14:16Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/SFSymbolsAuto.smd"
+    },
+    "047-65914": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/12/29/047-65914-A_DQXRT8BHBB/j1e9nklxsaip129tgd74c1vu2mzy8jlnqm/047-65914.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "4da0e55891e1fdd6057f3cbb5afef5aef991cdad",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/12/29/047-65914-A_DQXRT8BHBB/j1e9nklxsaip129tgd74c1vu2mzy8jlnqm/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1246057,
+          "URL": "http://swcdn.apple.com/content/downloads/12/29/047-65914-A_DQXRT8BHBB/j1e9nklxsaip129tgd74c1vu2mzy8jlnqm/XProtectPlistConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2026-02-10T18:19:11Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/12/29/047-65914-A_DQXRT8BHBB/j1e9nklxsaip129tgd74c1vu2mzy8jlnqm/XProtectPlistConfigData_10_14.smd"
     },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
@@ -54143,21 +54158,6 @@
       ],
       "PostDate": "2025-11-03T21:40:48Z",
       "State": "ramped"
-    },
-    "089-38703": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/089-38703.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "beb51343aee914b7b84c8934ecb94d5247a986d9",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.pkm",
-          "Size": 484547791,
-          "URL": "http://swcdn.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.pkg"
-        }
-      ],
-      "PostDate": "2026-01-13T18:55:21Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/21/089-38703-A_79K7X1HNY9/p7oca60twa2yrdt5f92pae4s2is1q7h1il/SFSymbolsAuto.smd"
     },
     "089-70987": {
       "DeferredSUEnablementDate": "2025-12-12T08:00:00Z",
