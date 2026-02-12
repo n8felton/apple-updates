@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-02-12T00:00:03Z",
+  "IndexDate": "2026-02-12T02:05:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51710,6 +51710,20 @@
         }
       ],
       "PostDate": "2026-02-02T22:45:30Z"
+    },
+    "047-52805": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/63/61/047-52805-A_PPICWNNYF6/9avl1sanz8xr5jlqhcwmgjecegscpj4vl5/047-52805.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "5ab4255b17843e496695defe6ac468df3dcb6f4c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/63/61/047-52805-A_PPICWNNYF6/9avl1sanz8xr5jlqhcwmgjecegscpj4vl5/MobileStoreDemoManPackage.pkm",
+          "Size": 2392430,
+          "URL": "http://swcdn.apple.com/content/downloads/63/61/047-52805-A_PPICWNNYF6/9avl1sanz8xr5jlqhcwmgjecegscpj4vl5/MobileStoreDemoManPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-02-12T02:04:05Z"
     },
     "047-60073": {
       "Distributions": {
