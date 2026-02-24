@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-02-20T18:29:29Z",
+  "IndexDate": "2026-02-24T21:47:19Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51794,20 +51794,20 @@
       "PostDate": "2026-02-11T18:23:26Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/35/40/047-60506-A_XF4NYZCUO6/qecz3rvvl3hwj711sdnx12z3uljapovkmh/BridgeOSUpdateCustomer.smd"
     },
-    "047-68997": {
+    "047-81042": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/25/56/047-68997-A_NX11P5LHRU/x998v52swgiz9ugit8nc2ygc2eqd4agk3r/047-68997.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/047-81042.English.dist"
       },
       "Packages": [
         {
-          "Digest": "fb84581322f525801e5503f918d0d41521991045",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/25/56/047-68997-A_NX11P5LHRU/x998v52swgiz9ugit8nc2ygc2eqd4agk3r/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1246323,
-          "URL": "http://swcdn.apple.com/content/downloads/25/56/047-68997-A_NX11P5LHRU/x998v52swgiz9ugit8nc2ygc2eqd4agk3r/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "47a0304d14c3af48361a7ef7e98bddc529d28bd2",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1247002,
+          "URL": "http://swcdn.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2026-02-17T18:11:41Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/25/56/047-68997-A_NX11P5LHRU/x998v52swgiz9ugit8nc2ygc2eqd4agk3r/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2026-02-24T21:19:41Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.smd"
     },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
