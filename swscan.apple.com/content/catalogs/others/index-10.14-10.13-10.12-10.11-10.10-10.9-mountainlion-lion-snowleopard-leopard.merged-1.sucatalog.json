@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-03-04T19:51:02Z",
+  "IndexDate": "2026-03-04T22:18:55Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -51696,21 +51696,6 @@
       "PostDate": "2026-02-10T18:14:16Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/SFSymbolsAuto.smd"
     },
-    "047-81042": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/047-81042.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "47a0304d14c3af48361a7ef7e98bddc529d28bd2",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1247002,
-          "URL": "http://swcdn.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2026-02-24T21:19:41Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/35/16/047-81042-A_MXZ3O3YWJ4/no63c052whd39d1j82ivcwxcl0spb98cq4/XProtectPlistConfigData_10_14.smd"
-    },
     "047-88311": {
       "DeferredSUEnablementDate": "2026-03-04T08:00:00Z",
       "Distributions": {
@@ -51890,6 +51875,21 @@
         }
       ],
       "PostDate": "2026-02-26T22:27:51Z"
+    },
+    "047-91392": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/48/29/047-91392-A_FH87W0MSK0/udai5d53aq4km7ywmppt4k57dj4eusg07m/047-91392.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "596ba0724395974e60d28e602909dedc9b0d3b8f",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/48/29/047-91392-A_FH87W0MSK0/udai5d53aq4km7ywmppt4k57dj4eusg07m/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1247210,
+          "URL": "http://swcdn.apple.com/content/downloads/48/29/047-91392-A_FH87W0MSK0/udai5d53aq4km7ywmppt4k57dj4eusg07m/XProtectPlistConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2026-03-04T22:09:44Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/48/29/047-91392-A_FH87W0MSK0/udai5d53aq4km7ywmppt4k57dj4eusg07m/XProtectPlistConfigData_10_14.smd"
     },
     "052-60131": {
       "DeferredSUEnablementDate": "2024-03-07T08:00:00Z",
