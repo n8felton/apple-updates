@@ -14,11 +14,16 @@
       "134242304": "MacBookPro18,3",
       "134242305": "MacBookPro18,4",
       "134242338": "Mac14,8",
+      "134242384": "Mac17,9",
+      "1677754688": "Mac17,5",
       "167796736": "MacBookPro18,1",
       "167796737": "MacBookPro18,2",
       "167796769": "Mac14,13",
       "167796770": "Mac14,14",
+      "167796816": "Mac17,7",
       "201351170": "Mac13,2",
+      "201351248": "Mac17,8",
+      "234905680": "Mac17,6",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
       "33579073": "Mac16,9",
@@ -29,8 +34,10 @@
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
+      "604012866": "Mac17,3",
       "637567235": "MacBookAir10,1",
       "637567282": "Mac16,3",
+      "637567298": "Mac17,4",
       "671121667": "iMac21,1",
       "671121682": "Mac14,2",
       "671121698": "Mac15,4",
@@ -64,11 +71,16 @@
       "134242304": "MacBookPro18,3",
       "134242305": "MacBookPro18,4",
       "134242338": "Mac14,8",
+      "134242384": "Mac17,9",
+      "1677754688": "Mac17,5",
       "167796736": "MacBookPro18,1",
       "167796737": "MacBookPro18,2",
       "167796769": "Mac14,13",
       "167796770": "Mac14,14",
+      "167796816": "Mac17,7",
       "201351170": "Mac13,2",
+      "201351248": "Mac17,8",
+      "234905680": "Mac17,6",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
       "33579073": "Mac16,9",
@@ -79,8 +91,10 @@
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
+      "604012866": "Mac17,3",
       "637567235": "MacBookAir10,1",
       "637567282": "Mac16,3",
+      "637567298": "Mac17,4",
       "671121667": "iMac21,1",
       "671121682": "Mac14,2",
       "671121698": "Mac15,4",
@@ -105,1114 +119,1275 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "Mac13,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac13,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,10": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,12": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,13": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,14": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,15": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,3": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,5": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,6": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,7": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,8": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac14,9": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,10": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,11": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,12": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,13": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,14": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,3": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,4": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,5": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,6": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,7": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,8": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac15,9": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,10": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,11": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,12": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,13": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,3": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,5": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,6": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,7": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,8": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac16,9": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Mac17,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,3": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,4": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,5": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,6": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,7": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,8": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
+              }
+            }
+          }
+        },
+        "Mac17,9": {
+          "25D2128": {
+            "Restore": {
+              "BuildVersion": "25D2128",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "25D2128",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookAir10,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookPro18,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookPro18,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookPro18,3": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "MacBookPro18,4": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "Macmini9,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "VirtualMac2,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "BuildVersion": "25D2128",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           }
         },
         "iMac21,1": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
         },
         "iMac21,2": {
-          "25D125": {
+          "25D2128": {
             "Restore": {
-              "BuildVersion": "25D125",
+              "BuildVersion": "25D2128",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-              "ProductVersion": "26.3"
+              "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+              "ProductVersion": "26.3.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "25D125",
+                "BuildVersion": "25D2128",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a51bc838db265ca2cfcd68681953b7a375b56fba",
-                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-60229/6D5DBEA5-75A0-4BEF-ACC9-5ACF9B8DF6B7/UniversalMac_26.3_25D125_Restore.ipsw",
-                "ProductVersion": "26.3"
+                "FirmwareSHA1": "d7fd6eded02a7534581e4bee5f25ba9784cce408",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-88313/2E098049-1731-4415-A206-546D09301973/UniversalMac_26.3.1_25D2128_Restore.ipsw",
+                "ProductVersion": "26.3.1"
               }
             }
           }
