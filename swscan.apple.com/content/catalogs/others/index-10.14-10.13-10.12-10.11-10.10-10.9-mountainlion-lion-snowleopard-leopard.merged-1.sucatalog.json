@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-04-08T19:26:14Z",
+  "IndexDate": "2026-04-08T21:16:40Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54877,33 +54877,33 @@
       "PostDate": "2026-03-24T17:42:50Z",
       "State": "ramped"
     },
-    "122-12546": {
+    "122-17534": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/38/37/122-12546-A_7ESSCXCR6M/yu3k9yxtcospy2eckwqaa3pduoup7dwln5/122-12546.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/10/55/122-17534-A_MZC6537EDV/qpohoggzxrb5olbj7tpbwubb6vlq6d5yn6/122-17534.English.dist"
       },
       "Packages": [
         {
-          "Digest": "c85bc95312ca3728da2ab32408d53a6f008109d7",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/38/37/122-12546-A_7ESSCXCR6M/yu3k9yxtcospy2eckwqaa3pduoup7dwln5/SafariTechPreviewPackage.pkm",
-          "Size": 207586998,
-          "URL": "http://swcdn.apple.com/content/downloads/38/37/122-12546-A_7ESSCXCR6M/yu3k9yxtcospy2eckwqaa3pduoup7dwln5/SafariTechPreviewPackage.pkg"
+          "Digest": "d3fff72a398206bcce497fb8b5694b6fb8188ac7",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/10/55/122-17534-A_MZC6537EDV/qpohoggzxrb5olbj7tpbwubb6vlq6d5yn6/SafariTechPreviewPackage.pkm",
+          "Size": 211426145,
+          "URL": "http://swcdn.apple.com/content/downloads/10/55/122-17534-A_MZC6537EDV/qpohoggzxrb5olbj7tpbwubb6vlq6d5yn6/SafariTechPreviewPackage.pkg"
         }
       ],
-      "PostDate": "2026-03-26T23:09:03Z"
+      "PostDate": "2026-04-08T21:00:57Z"
     },
-    "122-14198": {
+    "122-17536": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/04/28/122-14198-A_JLPSQCCVG0/s7vzfs0i6jzw5y3djsg3hn01f872b53yj2/122-14198.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/62/25/122-17536-A_L4P4TWHNDP/zeogmhfzl2we6wrjtt31fty2uwu7a0lvmz/122-17536.English.dist"
       },
       "Packages": [
         {
-          "Digest": "55a86ab9b465257ebdd7dff40d80d99f00506eba",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/04/28/122-14198-A_JLPSQCCVG0/s7vzfs0i6jzw5y3djsg3hn01f872b53yj2/SafariTechPreviewPackage.pkm",
-          "Size": 210772789,
-          "URL": "http://swcdn.apple.com/content/downloads/04/28/122-14198-A_JLPSQCCVG0/s7vzfs0i6jzw5y3djsg3hn01f872b53yj2/SafariTechPreviewPackage.pkg"
+          "Digest": "b23c8e6d04da8e0802ac07253016ab3f3748764a",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/62/25/122-17536-A_L4P4TWHNDP/zeogmhfzl2we6wrjtt31fty2uwu7a0lvmz/SafariTechPreviewPackage.pkm",
+          "Size": 208259451,
+          "URL": "http://swcdn.apple.com/content/downloads/62/25/122-17536-A_L4P4TWHNDP/zeogmhfzl2we6wrjtt31fty2uwu7a0lvmz/SafariTechPreviewPackage.pkg"
         }
       ],
-      "PostDate": "2026-03-26T23:09:03Z"
+      "PostDate": "2026-04-08T21:00:57Z"
     },
     "122-27557": {
       "Distributions": {
