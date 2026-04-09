@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-04-09T17:33:00Z",
+  "IndexDate": "2026-04-09T22:25:25Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54970,6 +54970,21 @@
       ],
       "PostDate": "2026-04-09T17:21:57Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/12/24/122-28068-A_1SGEUTVKY8/2w17brftloqy1fntgcrxtdwkakfrd4motm/BridgeOSUpdateCustomer.smd"
+    },
+    "122-29023": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/29/53/122-29023-A_FWQMH3VK5J/crtuwcucj2t6wrme78sprnhvgq593n35hi/122-29023.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "032b6300ca506867379b7dac62c032f9cff4bf8c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/29/53/122-29023-A_FWQMH3VK5J/crtuwcucj2t6wrme78sprnhvgq593n35hi/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1248453,
+          "URL": "http://swcdn.apple.com/content/downloads/29/53/122-29023-A_FWQMH3VK5J/crtuwcucj2t6wrme78sprnhvgq593n35hi/XProtectPlistConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2026-04-09T22:24:25Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/29/53/122-29023-A_FWQMH3VK5J/crtuwcucj2t6wrme78sprnhvgq593n35hi/XProtectPlistConfigData_10_14.smd"
     },
     "zzz041-87980": {
       "Distributions": {
