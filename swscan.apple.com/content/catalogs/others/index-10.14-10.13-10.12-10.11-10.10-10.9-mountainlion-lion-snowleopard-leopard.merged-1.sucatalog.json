@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-05-11T19:04:18Z",
+  "IndexDate": "2026-05-12T17:24:27Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55120,20 +55120,20 @@
       "PostDate": "2026-05-11T17:29:07Z",
       "State": "ramped"
     },
-    "122-79065": {
+    "122-88538": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/52/26/122-79065-A_8NHX8AA9DI/vzfdutvs8c9zccdc1bjn9r0kbtf8dhhb9i/122-79065.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/32/39/122-88538-A_4HBA48AJUV/inut66iu29r602wosrevactk47mmbl0sqg/122-88538.English.dist"
       },
       "Packages": [
         {
-          "Digest": "b729b7c321bcc1f16044dfc82fe867c7919a5fb6",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/52/26/122-79065-A_8NHX8AA9DI/vzfdutvs8c9zccdc1bjn9r0kbtf8dhhb9i/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1249384,
-          "URL": "http://swcdn.apple.com/content/downloads/52/26/122-79065-A_8NHX8AA9DI/vzfdutvs8c9zccdc1bjn9r0kbtf8dhhb9i/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "48d1e928011d9a5197b1e69a54f98abe981525e9",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/32/39/122-88538-A_4HBA48AJUV/inut66iu29r602wosrevactk47mmbl0sqg/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1249367,
+          "URL": "http://swcdn.apple.com/content/downloads/32/39/122-88538-A_4HBA48AJUV/inut66iu29r602wosrevactk47mmbl0sqg/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2026-05-05T17:30:32Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/52/26/122-79065-A_8NHX8AA9DI/vzfdutvs8c9zccdc1bjn9r0kbtf8dhhb9i/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2026-05-12T17:16:30Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/32/39/122-88538-A_4HBA48AJUV/inut66iu29r602wosrevactk47mmbl0sqg/XProtectPlistConfigData_10_14.smd"
     },
     "zzz041-87980": {
       "Distributions": {
