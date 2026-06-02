@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-06-01T18:53:25Z",
+  "IndexDate": "2026-06-02T17:25:59Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55117,20 +55117,20 @@
       ],
       "PostDate": "2026-05-21T22:42:49Z"
     },
-    "122-98436": {
+    "140-05989": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/56/34/122-98436-A_HJGCZ3DNAU/24e0yiuwpcpvqhtfli7irt18mp94eaeweb/122-98436.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/62/05/140-05989-A_I0U5CMW7IY/lz8j7ud6c8pxk44xnwk1r9hlalv3r8amth/140-05989.English.dist"
       },
       "Packages": [
         {
-          "Digest": "1ebd94f9155535296e0e6709a80f212ac6260203",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/56/34/122-98436-A_HJGCZ3DNAU/24e0yiuwpcpvqhtfli7irt18mp94eaeweb/XProtectPlistConfigData_10_14.pkm",
-          "Size": 1243404,
-          "URL": "http://swcdn.apple.com/content/downloads/56/34/122-98436-A_HJGCZ3DNAU/24e0yiuwpcpvqhtfli7irt18mp94eaeweb/XProtectPlistConfigData_10_14.pkg"
+          "Digest": "187563e2d70b896530fc0e95ff6ec8c24680fd6a",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/62/05/140-05989-A_I0U5CMW7IY/lz8j7ud6c8pxk44xnwk1r9hlalv3r8amth/XProtectPlistConfigData_10_14.pkm",
+          "Size": 1244279,
+          "URL": "http://swcdn.apple.com/content/downloads/62/05/140-05989-A_I0U5CMW7IY/lz8j7ud6c8pxk44xnwk1r9hlalv3r8amth/XProtectPlistConfigData_10_14.pkg"
         }
       ],
-      "PostDate": "2026-05-27T17:13:26Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/34/122-98436-A_HJGCZ3DNAU/24e0yiuwpcpvqhtfli7irt18mp94eaeweb/XProtectPlistConfigData_10_14.smd"
+      "PostDate": "2026-06-02T17:14:48Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/62/05/140-05989-A_I0U5CMW7IY/lz8j7ud6c8pxk44xnwk1r9hlalv3r8amth/XProtectPlistConfigData_10_14.smd"
     },
     "zzz041-87980": {
       "Distributions": {
