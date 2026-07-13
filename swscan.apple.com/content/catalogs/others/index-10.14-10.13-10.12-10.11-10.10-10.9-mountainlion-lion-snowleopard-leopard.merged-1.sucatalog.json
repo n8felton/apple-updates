@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-07-02T21:09:27Z",
+  "IndexDate": "2026-07-13T18:34:25Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -32340,21 +32340,6 @@
       ],
       "PostDate": "2019-10-15T20:22:47Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/26/24/041-88749-A_RXSLPL0K4U/uprubj8hs7bi5arheq4fyqchep6juvk5ie/OSX_10_14_IncompatibleAppList.smd"
-    },
-    "041-88751": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/47/36/041-88751/ss3oylb0dn8c42t4caiyeyz7ifx8ka0j3v/041-88751.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "7ae485c440ee81f2c8f7fefde5664a2618c2192c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/47/36/041-88751/ss3oylb0dn8c42t4caiyeyz7ifx8ka0j3v/SafariTechPreview.pkm",
-          "Size": 77243815,
-          "URL": "http://swcdn.apple.com/content/downloads/47/36/041-88751/ss3oylb0dn8c42t4caiyeyz7ifx8ka0j3v/SafariTechPreview.pkg"
-        }
-      ],
-      "PostDate": "2019-10-15T20:46:40Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/47/36/041-88751/ss3oylb0dn8c42t4caiyeyz7ifx8ka0j3v/SafariTechPreview.smd"
     },
     "041-88760": {
       "Distributions": {
