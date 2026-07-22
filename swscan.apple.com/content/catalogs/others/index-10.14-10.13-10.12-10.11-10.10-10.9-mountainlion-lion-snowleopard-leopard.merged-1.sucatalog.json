@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-07-21T21:48:09Z",
+  "IndexDate": "2026-07-22T18:20:09Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55018,20 +55018,6 @@
       ],
       "PostDate": "2026-06-08T22:06:25Z"
     },
-    "140-34381": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/44/34/140-34381-A_XSBFOUFX5F/76rul92yymksetvqu7ym0pi4e6z1j79zsn/140-34381.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "9856cead2ceeb3e30092ecdfdce35ccdc8531b7e",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/44/34/140-34381-A_XSBFOUFX5F/76rul92yymksetvqu7ym0pi4e6z1j79zsn/SafariTechPreviewPackage.pkm",
-          "Size": 216128441,
-          "URL": "http://swcdn.apple.com/content/downloads/44/34/140-34381-A_XSBFOUFX5F/76rul92yymksetvqu7ym0pi4e6z1j79zsn/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-07-01T21:05:22Z"
-    },
     "140-36227": {
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/59/27/140-36227-A_W3UQAEQ27E/xb7qrcsveetzjc7y0ky8jk3291f7vc73cd/140-36227.Dutch.dist",
@@ -55116,6 +55102,20 @@
       ],
       "PostDate": "2026-07-15T17:45:18Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/27/03/140-37344-A_3UIIRDWC0B/wcgw866erndi4bf3gr0chbqggv87d5c843/XProtectPlistConfigData_10_14.smd"
+    },
+    "140-68977": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/140-68977.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "166f4322da8f4b8a4576cc38aadea55fcf8a4444",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/SafariTechPreviewPackage.pkm",
+          "Size": 218211230,
+          "URL": "http://swcdn.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-07-22T18:04:34Z"
     },
     "zzz041-87980": {
       "Distributions": {
