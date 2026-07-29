@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-07-29T20:24:49Z",
+  "IndexDate": "2026-07-29T21:40:47Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -58153,35 +58153,6 @@
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/60/63/140-66480-A_86TSTRH1AI/2cou57w1w3s06s65h9dam39w4kua7tuu91/Safari26.6SonomaAuto.smd",
       "State": "ramped"
     },
-    "140-68977": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/140-68977.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "166f4322da8f4b8a4576cc38aadea55fcf8a4444",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/SafariTechPreviewPackage.pkm",
-          "Size": 218211230,
-          "URL": "https://swcdn.apple.com/content/downloads/16/07/140-68977-A_RJOZKVRZCI/dsjtoa9a9d4hxdcintiq6mtteu5i4lb0kx/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-07-22T18:04:34Z"
-    },
-    "140-70284": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/47/09/140-70284-A_P54K6KWG6A/peqyv1t8ovb9sqqwf38efz6cdkcaj3u5dm/140-70284.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "541a33b0d68789ad91fde4f4bf1ae6c75a6dab1a",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/47/09/140-70284-A_P54K6KWG6A/peqyv1t8ovb9sqqwf38efz6cdkcaj3u5dm/SafariTechPreview.pkm",
-          "Size": 135529935,
-          "URL": "https://swcdn.apple.com/content/downloads/47/09/140-70284-A_P54K6KWG6A/peqyv1t8ovb9sqqwf38efz6cdkcaj3u5dm/SafariTechPreview.pkg"
-        }
-      ],
-      "PostDate": "2026-07-22T18:04:55Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/47/09/140-70284-A_P54K6KWG6A/peqyv1t8ovb9sqqwf38efz6cdkcaj3u5dm/SafariTechPreview.smd"
-    },
     "140-71742": {
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/63/38/140-71742-A_NV02BYUU5V/0sl0nifmq1a4pnwzpnbge9kzw1v1g0274f/140-71742.Dutch.dist",
@@ -58429,6 +58400,35 @@
       ],
       "PostDate": "2026-07-28T17:45:05Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/24/18/140-75749-A_86MU4XZT2C/b5vwm2o5uaq0c32sr6kwlyhjizdwp9iwmd/XProtectPlistConfigData_10_15.smd"
+    },
+    "140-75781": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/140-75781.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "85ccf43b5a47188a4cc57fbdd313948e2c393f75",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/SafariTechPreviewPackage.pkm",
+          "Size": 218794525,
+          "URL": "https://swcdn.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-07-29T21:25:34Z"
+    },
+    "140-75786": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/18/00/140-75786-A_IVMA0IRIQP/c6cy2yzvkds14yltwwbhuqd1ieuyncxay8/140-75786.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "0f020935ccfeb134bc8fd88470c72634b237c011",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/18/00/140-75786-A_IVMA0IRIQP/c6cy2yzvkds14yltwwbhuqd1ieuyncxay8/SafariTechPreview249.pkm",
+          "Size": 135255309,
+          "URL": "https://swcdn.apple.com/content/downloads/18/00/140-75786-A_IVMA0IRIQP/c6cy2yzvkds14yltwwbhuqd1ieuyncxay8/SafariTechPreview249.pkg"
+        }
+      ],
+      "PostDate": "2026-07-29T21:25:33Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/18/00/140-75786-A_IVMA0IRIQP/c6cy2yzvkds14yltwwbhuqd1ieuyncxay8/SafariTechPreview249.smd"
     },
     "zzz041-87980": {
       "Distributions": {
