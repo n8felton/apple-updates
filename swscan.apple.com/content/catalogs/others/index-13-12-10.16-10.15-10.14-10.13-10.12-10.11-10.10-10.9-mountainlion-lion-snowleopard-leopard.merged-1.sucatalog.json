@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-08-11T17:41:43Z",
+  "IndexDate": "2026-08-11T17:56:25Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53278,6 +53278,21 @@
       "PostDate": "2026-02-10T18:14:16Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/56/16/047-60073-A_SAO4PKIONU/w92x8moeo6ihy0rc66zfqavyw0vxjtkuea/SFSymbolsAuto.smd"
     },
+    "047-76615": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/36/36/047-76615-A_QUE9CSJYLP/i92edvirg7xlwnl8c1410hfs1z1swlhgfo/047-76615.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "20c4178f4d3e463dac7dcb863a6dcbd70c7acb50",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/36/36/047-76615-A_QUE9CSJYLP/i92edvirg7xlwnl8c1410hfs1z1swlhgfo/SafeView.pkm",
+          "Size": 65432207,
+          "URL": "https://swcdn.apple.com/content/downloads/36/36/047-76615-A_QUE9CSJYLP/i92edvirg7xlwnl8c1410hfs1z1swlhgfo/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2026-08-11T17:43:56Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/36/36/047-76615-A_QUE9CSJYLP/i92edvirg7xlwnl8c1410hfs1z1swlhgfo/SafeView.smd"
+    },
     "047-88311": {
       "DeferredSUEnablementDate": "2026-03-04T08:00:00Z",
       "Distributions": {
@@ -57201,21 +57216,6 @@
         }
       ],
       "PostDate": "2026-01-08T23:19:17Z"
-    },
-    "093-46601": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/14/60/093-46601-A_3CPYE7ZQED/mw73ru3iim4h388y4jw9i6qqisb6ydh3w6/093-46601.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "d3e672d7580f5b2609cbbda40cdd9bcfad3244f7",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/14/60/093-46601-A_3CPYE7ZQED/mw73ru3iim4h388y4jw9i6qqisb6ydh3w6/SafeView.pkm",
-          "Size": 45916499,
-          "URL": "https://swcdn.apple.com/content/downloads/14/60/093-46601-A_3CPYE7ZQED/mw73ru3iim4h388y4jw9i6qqisb6ydh3w6/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2025-10-21T17:42:05Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/14/60/093-46601-A_3CPYE7ZQED/mw73ru3iim4h388y4jw9i6qqisb6ydh3w6/SafeView.smd"
     },
     "093-92756": {
       "DeferredSUEnablementDate": "2025-11-03T08:00:00Z",
