@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-08-13T19:15:10Z",
+  "IndexDate": "2026-08-13T21:19:05Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55129,20 +55129,6 @@
       "PostDate": "2026-07-27T18:14:35Z",
       "State": "ramped"
     },
-    "140-75781": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/140-75781.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "85ccf43b5a47188a4cc57fbdd313948e2c393f75",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/SafariTechPreviewPackage.pkm",
-          "Size": 218794525,
-          "URL": "http://swcdn.apple.com/content/downloads/22/54/140-75781-A_0ZXUSFPI0Z/skwal4phcaxjzl3otw0nd2qg5y2t167e1o/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-07-29T21:25:34Z"
-    },
     "140-77973": {
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/59/62/140-77973-A_0MLAPXY4BB/ssxnbmzudbgs40obekucnonc61jf6an1zk/140-77973.Dutch.dist",
@@ -55323,6 +55309,20 @@
       ],
       "PostDate": "2026-08-06T17:19:51Z",
       "State": "ramped"
+    },
+    "140-89043": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/30/11/140-89043-A_JCCAR47T09/1hpq73ed89vuama9l9vuuyes4agnkuuht4/140-89043.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "58637d39998c3875cd9133dd56aa6be850710b03",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/30/11/140-89043-A_JCCAR47T09/1hpq73ed89vuama9l9vuuyes4agnkuuht4/SafariTechPreviewPackage.pkm",
+          "Size": 219109555,
+          "URL": "http://swcdn.apple.com/content/downloads/30/11/140-89043-A_JCCAR47T09/1hpq73ed89vuama9l9vuuyes4agnkuuht4/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-08-13T21:04:06Z"
     },
     "140-92758": {
       "Distributions": {
