@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-08-24T19:56:48Z",
+  "IndexDate": "2026-08-24T22:47:11Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57612,9 +57612,9 @@
       "PostDate": "2026-08-17T22:11:49Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/02/02/140-97948-A_5GPB7ACUED/iys75aku7i2rr7n3a6lw3lxcvxzalit7db/BridgeOSUpdateCustomer.smd"
     },
-    "140-98251": {
+    "142-00150": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/140-98251.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/142-00150.English.dist"
       },
       "ExtendedMetaInfo": {
         "InstallAssistantPackageIdentifiers": {
@@ -57626,41 +57626,41 @@
       },
       "Packages": [
         {
-          "Digest": "0949f5bf57507da589132ff2f7bf758f15855e6f",
-          "IntegrityDataSize": 58352,
-          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/InstallAssistant.pkm",
-          "Size": 16966515748,
-          "URL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/InstallAssistant.pkg"
+          "Digest": "3029994d06f9a1bf6f5e1d63a6e440d96f5ceca0",
+          "IntegrityDataSize": 58388,
+          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/InstallAssistant.pkg.integrityDataV1",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/InstallAssistant.pkm",
+          "Size": 16986585034,
+          "URL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/InstallAssistant.pkg"
         },
         {
-          "Digest": "3553ea8c61928bc2a1c91223bc51304ac1832c93",
+          "Digest": "65580306aeef09b8657e070adefacd84aff24c81",
           "IntegrityDataSize": 104,
-          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/MajorOSInfo.pkm",
-          "Size": 5011560,
-          "URL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/MajorOSInfo.pkg"
+          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/MajorOSInfo.pkg.integrityDataV1",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/MajorOSInfo.pkm",
+          "Size": 5011559,
+          "URL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/MajorOSInfo.pkg"
         },
         {
           "IntegrityDataSize": 104,
-          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/InstallInfo.plist.integrityDataV1",
+          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/InstallInfo.plist.integrityDataV1",
           "Size": 181,
-          "URL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/InstallInfo.plist"
+          "URL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/InstallInfo.plist"
         },
         {
           "IntegrityDataSize": 104,
-          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/UpdateBrain.zip.integrityDataV1",
-          "Size": 4792308,
-          "URL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/UpdateBrain.zip"
+          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/UpdateBrain.zip.integrityDataV1",
+          "Size": 4792312,
+          "URL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/UpdateBrain.zip"
         },
         {
           "IntegrityDataSize": 104,
-          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/com_apple_MobileAsset_MacSoftwareUpdate.plist.integrityDataV1",
-          "Size": 1458523,
-          "URL": "https://swcdn.apple.com/content/downloads/60/34/140-98251-A_U78NQKDVEP/ypguhw0dq9wqulcxdvfpnmy281z4vs86ln/com_apple_MobileAsset_MacSoftwareUpdate.plist"
+          "IntegrityDataURL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/com_apple_MobileAsset_MacSoftwareUpdate.plist.integrityDataV1",
+          "Size": 1458011,
+          "URL": "https://swcdn.apple.com/content/downloads/56/51/142-00150-A_NE6LNBAJJ1/til9ccc0fsrmpyampdisvw4ygqnv8n6mj5/com_apple_MobileAsset_MacSoftwareUpdate.plist"
         }
       ],
-      "PostDate": "2026-08-17T22:06:12Z"
+      "PostDate": "2026-08-24T22:43:41Z"
     },
     "zzz041-87980": {
       "Distributions": {
