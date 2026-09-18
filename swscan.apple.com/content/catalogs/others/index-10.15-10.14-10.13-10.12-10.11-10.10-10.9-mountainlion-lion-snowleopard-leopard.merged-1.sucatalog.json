@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-09-17T19:28:09Z",
+  "IndexDate": "2026-09-18T17:18:20Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55930,21 +55930,6 @@
       "PostDate": "2025-02-03T18:15:00Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/52/63/072-56999-A_YJL2E41R8M/jr1dw3i7rbedr4tmeapepkudjf95vqex9z/macOSInstallerNotification_RC.smd"
     },
-    "089-33637": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/15/16/089-33637-A_SE0M97ZISP/tedt88dtpkro32n8fmvhez32c2nm11n4fq/089-33637.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "004e405210522288c675a31de4a18a7d7158962c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/15/16/089-33637-A_SE0M97ZISP/tedt88dtpkro32n8fmvhez32c2nm11n4fq/XProtectPayloads_10_15.pkm",
-          "Size": 24159893,
-          "URL": "http://swcdn.apple.com/content/downloads/15/16/089-33637-A_SE0M97ZISP/tedt88dtpkro32n8fmvhez32c2nm11n4fq/XProtectPayloads_10_15.pkg"
-        }
-      ],
-      "PostDate": "2026-02-17T18:10:37Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/15/16/089-33637-A_SE0M97ZISP/tedt88dtpkro32n8fmvhez32c2nm11n4fq/XProtectPayloads_10_15.smd"
-    },
     "091-76740": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/59/54/091-76740/1c7y4dhrwoq0fccao8c7qvvtmlyp6xi6l4/091-76740.English.dist"
@@ -56857,6 +56842,21 @@
       ],
       "PostDate": "2026-09-14T17:14:45Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/31/20/142-16672-A_C51A5G5731/4gcs1wgc97v1l5jkap2h2exz9gft8iyyob/BridgeOSUpdateCustomer.smd"
+    },
+    "142-20148": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/58/58/142-20148-A_S96V7EAREU/78aimp1oxig4o6k11iyed9chs4zbuhci1c/142-20148.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "1351c395e58a4edd8a13e5e0491a65e7dc7d130e",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/58/58/142-20148-A_S96V7EAREU/78aimp1oxig4o6k11iyed9chs4zbuhci1c/XProtectPayloads_10_15.pkm",
+          "Size": 24199252,
+          "URL": "http://swcdn.apple.com/content/downloads/58/58/142-20148-A_S96V7EAREU/78aimp1oxig4o6k11iyed9chs4zbuhci1c/XProtectPayloads_10_15.pkg"
+        }
+      ],
+      "PostDate": "2026-09-18T17:06:59Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/58/58/142-20148-A_S96V7EAREU/78aimp1oxig4o6k11iyed9chs4zbuhci1c/XProtectPayloads_10_15.smd"
     },
     "142-23719": {
       "Distributions": {
