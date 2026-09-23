@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-09-23T18:32:15Z",
+  "IndexDate": "2026-09-23T21:32:13Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57193,20 +57193,6 @@
       ],
       "PostDate": "2026-08-24T22:49:27Z"
     },
-    "142-15044": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/142-15044.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "0843c1b5df949547d184923b5cef04ebef28a962",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/SafariTechPreviewPackage.pkm",
-          "Size": 226348928,
-          "URL": "https://swcdn.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-09-10T21:22:12Z"
-    },
     "142-15488": {
       "DeferredSUEnablementDate": "2026-09-14T07:00:00Z",
       "Distributions": {
@@ -57526,6 +57512,20 @@
       ],
       "PostDate": "2026-09-17T16:08:45Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/08/47/142-23737-A_ESM3V7TRFC/mi4pp2xmjvhghfrphkgavab7x4bq70f8wx/XProtectPlistConfigData_10_15.smd"
+    },
+    "142-24186": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/142-24186.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "173d6869710208b8c3a4f6c62e65311b59cb7be0",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/SafariTechPreviewPackage.pkm",
+          "Size": 226809382,
+          "URL": "https://swcdn.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-09-23T21:17:07Z"
     },
     "142-25864": {
       "Distributions": {

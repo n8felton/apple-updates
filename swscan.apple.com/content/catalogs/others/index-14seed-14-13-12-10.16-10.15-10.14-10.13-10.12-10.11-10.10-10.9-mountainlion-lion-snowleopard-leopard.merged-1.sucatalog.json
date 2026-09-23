@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-09-23T18:32:28Z",
+  "IndexDate": "2026-09-23T21:32:27Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57597,20 +57597,6 @@
       ],
       "PostDate": "2026-08-24T22:49:27Z"
     },
-    "142-15044": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/142-15044.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "0843c1b5df949547d184923b5cef04ebef28a962",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/SafariTechPreviewPackage.pkm",
-          "Size": 226348928,
-          "URL": "https://swcdn.apple.com/content/downloads/37/23/142-15044-A_NBQCK7IEUW/za8b2iupchqzm22sn2yomtzi0bi7wt7rm9/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-09-10T21:22:12Z"
-    },
     "142-15488": {
       "DeferredSUEnablementDate": "2026-09-14T07:00:00Z",
       "Distributions": {
@@ -57837,21 +57823,6 @@
       "PostDate": "2026-09-14T17:14:45Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/31/20/142-16672-A_C51A5G5731/4gcs1wgc97v1l5jkap2h2exz9gft8iyyob/BridgeOSUpdateCustomer.smd"
     },
-    "142-17037": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/46/60/142-17037-A_LP27S8M48P/htxeztblaf6vxmstumf018ve6plvp4cvcc/142-17037.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "969df086c30f60a6dd72b0b582e3e23cda2db543",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/46/60/142-17037-A_LP27S8M48P/htxeztblaf6vxmstumf018ve6plvp4cvcc/SafariTechPreview252.pkm",
-          "Size": 136641505,
-          "URL": "https://swcdn.apple.com/content/downloads/46/60/142-17037-A_LP27S8M48P/htxeztblaf6vxmstumf018ve6plvp4cvcc/SafariTechPreview252.pkg"
-        }
-      ],
-      "PostDate": "2026-09-10T21:21:59Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/46/60/142-17037-A_LP27S8M48P/htxeztblaf6vxmstumf018ve6plvp4cvcc/SafariTechPreview252.smd"
-    },
     "142-20148": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/58/58/142-20148-A_S96V7EAREU/78aimp1oxig4o6k11iyed9chs4zbuhci1c/142-20148.English.dist"
@@ -57945,6 +57916,20 @@
       ],
       "PostDate": "2026-09-17T16:08:45Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/08/47/142-23737-A_ESM3V7TRFC/mi4pp2xmjvhghfrphkgavab7x4bq70f8wx/XProtectPlistConfigData_10_15.smd"
+    },
+    "142-24186": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/142-24186.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "173d6869710208b8c3a4f6c62e65311b59cb7be0",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/SafariTechPreviewPackage.pkm",
+          "Size": 226809382,
+          "URL": "https://swcdn.apple.com/content/downloads/53/54/142-24186-A_R20RZKLVXO/jkpm5tfi39zrkw2pl7h4x96qjud8rfiogw/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-09-23T21:17:07Z"
     },
     "142-24267": {
       "Distributions": {
@@ -58079,6 +58064,21 @@
         }
       ],
       "PostDate": "2026-09-16T20:17:09Z"
+    },
+    "142-27949": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/23/14/142-27949-A_16CK45KLAC/smq0vo2x921r9tn80dqvk3obdgc7566cmd/142-27949.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "c3982f7741a69d21d684fd9c37de7e3829a00c89",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/23/14/142-27949-A_16CK45KLAC/smq0vo2x921r9tn80dqvk3obdgc7566cmd/SafariTechPreview253.pkm",
+          "Size": 136883064,
+          "URL": "https://swcdn.apple.com/content/downloads/23/14/142-27949-A_16CK45KLAC/smq0vo2x921r9tn80dqvk3obdgc7566cmd/SafariTechPreview253.pkg"
+        }
+      ],
+      "PostDate": "2026-09-23T21:16:50Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/23/14/142-27949-A_16CK45KLAC/smq0vo2x921r9tn80dqvk3obdgc7566cmd/SafariTechPreview253.smd"
     },
     "zzz041-87980": {
       "Distributions": {
