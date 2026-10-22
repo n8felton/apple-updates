@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-10-22T19:38:25Z",
+  "IndexDate": "2026-10-22T21:29:29Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57712,20 +57712,6 @@
       "PostDate": "2026-09-28T17:27:06Z",
       "State": "ramped"
     },
-    "142-29068": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/35/28/142-29068-A_54OTOZ3QLM/tuv4g6fkcuf6uymlp1i6ymgswxrl121uu4/142-29068.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "da7282e53bd3e91e21afcd0fa6ca17b2726af911",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/35/28/142-29068-A_54OTOZ3QLM/tuv4g6fkcuf6uymlp1i6ymgswxrl121uu4/SafariTechPreviewPackage.pkm",
-          "Size": 228143194,
-          "URL": "https://swcdn.apple.com/content/downloads/35/28/142-29068-A_54OTOZ3QLM/tuv4g6fkcuf6uymlp1i6ymgswxrl121uu4/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-10-08T23:19:51Z"
-    },
     "142-36162": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/50/38/142-36162-A_1AN6ELTWXM/xkm2c8cjgukv29mw49rikfjcehg029wv7k/142-36162.English.dist"
@@ -57775,6 +57761,20 @@
         }
       ],
       "PostDate": "2026-10-13T22:01:57Z"
+    },
+    "142-42310": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/58/41/142-42310-A_2O4GK6HBGJ/3jk6qr83jcjbnviqwy6usl2d52cwg7wb8r/142-42310.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "aa592622dbb2f42c1f6ed30adf6849cde42436f2",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/58/41/142-42310-A_2O4GK6HBGJ/3jk6qr83jcjbnviqwy6usl2d52cwg7wb8r/SafariTechPreviewPackage.pkm",
+          "Size": 226597972,
+          "URL": "https://swcdn.apple.com/content/downloads/58/41/142-42310-A_2O4GK6HBGJ/3jk6qr83jcjbnviqwy6usl2d52cwg7wb8r/SafariTechPreviewPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-10-22T21:19:57Z"
     },
     "142-43926": {
       "Distributions": {
