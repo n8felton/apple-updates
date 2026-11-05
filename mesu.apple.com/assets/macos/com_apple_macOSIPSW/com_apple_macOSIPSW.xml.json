@@ -6,6 +6,7 @@
       "100687920": "Mac15,7",
       "100687936": "Mac16,7",
       "100687937": "Mac16,5",
+      "100687952": "Mac17,10",
       "1140875313": "Mac15,8",
       "1140875314": "Mac15,14",
       "1140875316": "Mac15,10",
@@ -26,14 +27,17 @@
       "234905680": "Mac17,6",
       "268460112": "Mac17,14",
       "302014544": "Mac17,15",
+      "335568976": "Mac17,13",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
       "33579073": "Mac16,9",
       "33579088": "Mac17,16",
+      "369123408": "Mac17,12",
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
       "570458434": "Mac17,2",
+      "570458450": "Mac18,1",
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
@@ -42,6 +46,7 @@
       "637567235": "MacBookAir10,1",
       "637567282": "Mac16,3",
       "637567298": "Mac17,4",
+      "637567314": "Mac18,2",
       "671121667": "iMac21,1",
       "671121682": "Mac14,2",
       "671121698": "Mac15,4",
@@ -51,6 +56,7 @@
       "67133488": "Mac15,6",
       "67133504": "Mac16,8",
       "67133505": "Mac16,6",
+      "67133520": "Mac17,11",
       "704676099": "iMac21,2",
       "704676114": "Mac14,7",
       "704676130": "Mac15,5",
@@ -67,6 +73,7 @@
       "100687920": "Mac15,7",
       "100687936": "Mac16,7",
       "100687937": "Mac16,5",
+      "100687952": "Mac17,10",
       "1140875313": "Mac15,8",
       "1140875314": "Mac15,14",
       "1140875316": "Mac15,10",
@@ -87,14 +94,17 @@
       "234905680": "Mac17,6",
       "268460112": "Mac17,14",
       "302014544": "Mac17,15",
+      "335568976": "Mac17,13",
       "33579040": "Mac14,12",
       "33579072": "Mac16,10",
       "33579073": "Mac16,9",
       "33579088": "Mac17,16",
+      "369123408": "Mac17,12",
       "570458371": "Macmini9,1",
       "570458402": "Mac15,3",
       "570458418": "Mac16,1",
       "570458434": "Mac17,2",
+      "570458450": "Mac18,1",
       "604012803": "MacBookPro17,1",
       "604012818": "Mac14,3",
       "604012850": "Mac16,2",
@@ -103,6 +113,7 @@
       "637567235": "MacBookAir10,1",
       "637567282": "Mac16,3",
       "637567298": "Mac17,4",
+      "637567314": "Mac18,2",
       "671121667": "iMac21,1",
       "671121682": "Mac14,2",
       "671121698": "Mac15,4",
@@ -112,6 +123,7 @@
       "67133488": "Mac15,6",
       "67133504": "Mac16,8",
       "67133505": "Mac16,6",
+      "67133520": "Mac17,11",
       "704676099": "iMac21,2",
       "704676114": "Mac14,7",
       "704676130": "Mac15,5",
@@ -1000,6 +1012,98 @@
             }
           }
         },
+        "Mac17,10": {
+          "26B8125": {
+            "Restore": {
+              "BuildVersion": "26B8125",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B8125",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
+        "Mac17,11": {
+          "26B8125": {
+            "Restore": {
+              "BuildVersion": "26B8125",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B8125",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
+        "Mac17,12": {
+          "26B8125": {
+            "Restore": {
+              "BuildVersion": "26B8125",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B8125",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
+        "Mac17,13": {
+          "26B8125": {
+            "Restore": {
+              "BuildVersion": "26B8125",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B8125",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "30b48ba7b54114c8eec0bef084344c4fce908aa6",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
         "Mac17,14": {
           "26B123": {
             "Restore": {
@@ -1248,6 +1352,52 @@
                 "EpochVersion": "1",
                 "FirmwareSHA1": "617360e5619dbb424ed3774b98732bb3cfeacc0b",
                 "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-00217169ba8d/UniversalMac_27.2_26B123_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
+        "Mac18,1": {
+          "26B7124": {
+            "Restore": {
+              "BuildVersion": "26B7124",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "b10b25896174e29c76c5c28de6a818999b31d9fa",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B7124",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "b10b25896174e29c76c5c28de6a818999b31d9fa",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw",
+                "ProductVersion": "27.2"
+              }
+            }
+          }
+        },
+        "Mac18,2": {
+          "26B7124": {
+            "Restore": {
+              "BuildVersion": "26B7124",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "b10b25896174e29c76c5c28de6a818999b31d9fa",
+              "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw",
+              "ProductVersion": "27.2"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "26B7124",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "b10b25896174e29c76c5c28de6a818999b31d9fa",
+                "FirmwareURL": "https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw",
                 "ProductVersion": "27.2"
               }
             }
