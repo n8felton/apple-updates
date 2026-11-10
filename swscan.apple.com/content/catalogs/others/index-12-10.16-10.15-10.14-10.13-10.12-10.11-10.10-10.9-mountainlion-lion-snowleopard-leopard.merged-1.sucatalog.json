@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-11-09T19:02:37Z",
+  "IndexDate": "2026-11-10T21:20:58Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57315,21 +57315,6 @@
       "PostDate": "2026-10-26T18:04:46Z",
       "State": "ramped"
     },
-    "142-52401": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/41/14/142-52401-A_72SDETO4UK/v324vku5mhqf48x8ebe2afbl71ri399hze/142-52401.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "87f809ce738962a29c8ca45cc80197283f652efb",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/41/14/142-52401-A_72SDETO4UK/v324vku5mhqf48x8ebe2afbl71ri399hze/XProtectPlistConfigData_10_15.pkm",
-          "Size": 1331668,
-          "URL": "https://swcdn.apple.com/content/downloads/41/14/142-52401-A_72SDETO4UK/v324vku5mhqf48x8ebe2afbl71ri399hze/XProtectPlistConfigData_10_15.pkg"
-        }
-      ],
-      "PostDate": "2026-11-03T18:03:00Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/41/14/142-52401-A_72SDETO4UK/v324vku5mhqf48x8ebe2afbl71ri399hze/XProtectPlistConfigData_10_15.smd"
-    },
     "142-52618": {
       "DeferredSUEnablementDate": "2026-11-05T08:00:00Z",
       "Distributions": {
@@ -57446,6 +57431,21 @@
         }
       ],
       "PostDate": "2026-11-05T00:07:23Z"
+    },
+    "142-53984": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/13/48/142-53984-A_EJ61HFYHHO/1qn061wzkhzssx5x7d0shzo43smzfmtffi/142-53984.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "a7eb32b4e597b58ff500ded0d311a6ce0b1bbc2a",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/13/48/142-53984-A_EJ61HFYHHO/1qn061wzkhzssx5x7d0shzo43smzfmtffi/XProtectPlistConfigData_10_15.pkm",
+          "Size": 1329869,
+          "URL": "https://swcdn.apple.com/content/downloads/13/48/142-53984-A_EJ61HFYHHO/1qn061wzkhzssx5x7d0shzo43smzfmtffi/XProtectPlistConfigData_10_15.pkg"
+        }
+      ],
+      "PostDate": "2026-11-10T20:54:45Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/13/48/142-53984-A_EJ61HFYHHO/1qn061wzkhzssx5x7d0shzo43smzfmtffi/XProtectPlistConfigData_10_15.smd"
     },
     "142-54123": {
       "DeferredSUEnablementDate": "2026-11-09T08:00:00Z",
