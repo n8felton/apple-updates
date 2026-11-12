@@ -81891,6 +81891,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3776819985",
       "MinimumSystemPartition": 8338,
@@ -81967,6 +81968,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3776819985",
       "MinimumSystemPartition": 8338,
@@ -82043,6 +82045,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82116,6 +82119,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82189,6 +82193,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82262,6 +82267,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82335,6 +82341,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074329286",
       "MinimumSystemPartition": 8788,
@@ -82411,6 +82418,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4091143095",
       "MinimumSystemPartition": 8795,
@@ -82487,6 +82495,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4115416984",
       "MinimumSystemPartition": 8927,
@@ -82563,6 +82572,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4132421374",
       "MinimumSystemPartition": 8941,
@@ -82639,6 +82649,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3776819985",
       "MinimumSystemPartition": 8338,
@@ -82714,6 +82725,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3776819985",
       "MinimumSystemPartition": 8338,
@@ -82789,6 +82801,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82861,6 +82874,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -82933,6 +82947,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -83005,6 +83020,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3867543082",
       "MinimumSystemPartition": 8749,
@@ -83077,6 +83093,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074329286",
       "MinimumSystemPartition": 8788,
@@ -83152,6 +83169,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4091143095",
       "MinimumSystemPartition": 8795,
@@ -83227,6 +83245,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4115416984",
       "MinimumSystemPartition": 8927,
@@ -83302,6 +83321,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4132421374",
       "MinimumSystemPartition": 8941,
@@ -119033,6 +119053,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3758488626",
       "MinimumSystemPartition": 8149,
@@ -119103,6 +119124,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3758488626",
       "MinimumSystemPartition": 8149,
@@ -119173,6 +119195,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3986927290",
       "MinimumSystemPartition": 8358,
@@ -119243,6 +119266,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4000874225",
       "MinimumSystemPartition": 8362,
@@ -119313,6 +119337,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3839048027",
       "MinimumSystemPartition": 8451,
@@ -119383,6 +119408,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3839048027",
       "MinimumSystemPartition": 8451,
@@ -119453,6 +119479,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3834971564",
       "MinimumSystemPartition": 8456,
@@ -119523,6 +119550,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3834971564",
       "MinimumSystemPartition": 8456,
@@ -119593,6 +119621,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4030187866",
       "MinimumSystemPartition": 8521,
@@ -119663,6 +119692,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4052205160",
       "MinimumSystemPartition": 8591,
@@ -119733,6 +119763,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4052205160",
       "MinimumSystemPartition": 8591,
@@ -119803,6 +119834,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -119870,6 +119902,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -119937,6 +119970,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120004,6 +120038,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120071,6 +120106,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120138,6 +120174,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120205,6 +120242,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120272,6 +120310,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -120339,6 +120378,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4066476786",
       "MinimumSystemPartition": 8751,
@@ -120409,6 +120449,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4075079248",
       "MinimumSystemPartition": 8774,
@@ -120479,6 +120520,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074599954",
       "MinimumSystemPartition": 8777,
@@ -120549,6 +120591,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3881053382",
       "MinimumSystemPartition": 8817,
@@ -120619,6 +120662,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3881053382",
       "MinimumSystemPartition": 8817,
@@ -120689,6 +120733,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074939464",
       "MinimumSystemPartition": 8852,
@@ -120759,6 +120804,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4093911316",
       "MinimumSystemPartition": 8866,
@@ -120829,6 +120875,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4093911316",
       "MinimumSystemPartition": 8866,
@@ -120899,6 +120946,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4091035775",
       "MinimumSystemPartition": 8881,
@@ -120969,6 +121017,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4092045049",
       "MinimumSystemPartition": 8881,
@@ -121039,6 +121088,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3758488626",
       "MinimumSystemPartition": 8149,
@@ -121108,6 +121158,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3758488626",
       "MinimumSystemPartition": 8149,
@@ -121177,6 +121228,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3986927290",
       "MinimumSystemPartition": 8358,
@@ -121246,6 +121298,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4000874225",
       "MinimumSystemPartition": 8362,
@@ -121315,6 +121368,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3839048027",
       "MinimumSystemPartition": 8451,
@@ -121384,6 +121438,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3839048027",
       "MinimumSystemPartition": 8451,
@@ -121453,6 +121508,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3834971564",
       "MinimumSystemPartition": 8456,
@@ -121522,6 +121578,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3834971564",
       "MinimumSystemPartition": 8456,
@@ -121591,6 +121648,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4030187866",
       "MinimumSystemPartition": 8521,
@@ -121660,6 +121718,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4052205160",
       "MinimumSystemPartition": 8591,
@@ -121729,6 +121788,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4052205160",
       "MinimumSystemPartition": 8591,
@@ -121798,6 +121858,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -121864,6 +121925,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -121930,6 +121992,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -121996,6 +122059,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -122062,6 +122126,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -122128,6 +122193,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -122194,6 +122260,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -122260,6 +122327,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3842740236",
       "MinimumSystemPartition": 8716,
@@ -122326,6 +122394,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4066476786",
       "MinimumSystemPartition": 8751,
@@ -122395,6 +122464,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4075079248",
       "MinimumSystemPartition": 8774,
@@ -122464,6 +122534,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074599954",
       "MinimumSystemPartition": 8777,
@@ -122533,6 +122604,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3881053382",
       "MinimumSystemPartition": 8817,
@@ -122602,6 +122674,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3881053382",
       "MinimumSystemPartition": 8817,
@@ -122671,6 +122744,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4074939464",
       "MinimumSystemPartition": 8852,
@@ -122740,6 +122814,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4093911316",
       "MinimumSystemPartition": 8866,
@@ -122809,6 +122884,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4093911316",
       "MinimumSystemPartition": 8866,
@@ -122878,6 +122954,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4091035775",
       "MinimumSystemPartition": 8881,
@@ -122947,6 +123024,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "4092045049",
       "MinimumSystemPartition": 8881,
@@ -123016,6 +123094,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2620098017",
       "MinimumSystemPartition": 6270,
@@ -123084,6 +123194,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2620098017",
       "MinimumSystemPartition": 6270,
@@ -123152,6 +123294,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -123220,6 +123363,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -123288,6 +123432,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -123356,6 +123501,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -123424,6 +123570,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2977289113",
       "MinimumSystemPartition": 6910,
@@ -123493,6 +123671,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3015747328",
       "MinimumSystemPartition": 7085,
@@ -123562,6 +123772,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3015747328",
       "MinimumSystemPartition": 7085,
@@ -123616,378 +123858,6 @@
       "__update__": "__bumped__"
     },
     {
-      "ActualMinimumSystemPartition": 5431,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3148,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2138969684",
-      "MinimumSystemPartition": 5483,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tdjr8JdfT75BzkfJXZg2Bo5axmU2q7T3sNWiqC5JZjyrppmhZrSqF\n\t\t\t1I4HfEe2mR9R\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\twb/i5up7E9WlVPNMR54su3PIsGHUXaV035xKFoAH4/cPvQo1fgVM\n\t\t\tcRAf90hw/Thj\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J72bAP"
-      ],
-      "SupportedDevices": [
-        "iPad7,6"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 170,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5291139499,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tcLVDPgSVi9qdMDos2bBrIFZ4h3s=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5385663488,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77271/4066619A-C377-4AA9-B06C-83793F0874A1/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/289bce62ccb7bea6f0528a9e628703f606449239.zip",
-      "__update__": "__bumped__"
-    },
-    {
-      "ActualMinimumSystemPartition": 5431,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3148,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2138969684",
-      "MinimumSystemPartition": 5483,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tj0lA9cd2Arx1+Km1el647iuRy0/uU2ns7ixrwFxfW+M7YLdO7qVo\n\t\t\tUv7DMGjAau+0\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\tw5z9N5b/ne5LwjS2hSrIvj+z9m3yvHz8lm13w2VZ4AjjVSBxSHW8\n\t\t\tNpohnQ7NQReT\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J71bAP"
-      ],
-      "SupportedDevices": [
-        "iPad7,5"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 170,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5291139499,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tcLVDPgSVi9qdMDos2bBrIFZ4h3s=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5385663488,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77271/4066619A-C377-4AA9-B06C-83793F0874A1/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/289bce62ccb7bea6f0528a9e628703f606449239.zip",
-      "__update__": "__bumped__"
-    },
-    {
-      "ActualMinimumSystemPartition": 5454,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3150,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2142256287",
-      "MinimumSystemPartition": 5506,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tF5Nqybw/Y/U5KuZ+fB5+k7gQRviD5Lx+IgMGP0c+hhM0CDP/+Nnd\n\t\t\tyvyjT3Avap1Q\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\tfl8vTGyhlQCB8oE+C2sJ6seWsHPltMn230pDdNUUeMBIs1s+fs/r\n\t\t\trKI9BP9OuiLo\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J207AP"
-      ],
-      "SupportedDevices": [
-        "iPad7,3"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 171,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5275811208,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5376593920,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
-      "__update__": "__bumped__"
-    },
-    {
-      "ActualMinimumSystemPartition": 5454,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3150,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2142256287",
-      "MinimumSystemPartition": 5506,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tPLfgAHDhN3h+uPT7fBO/R/sWWkaWXi6m764D7ZYHsY2JzHPS0ybU\n\t\t\t4X0qUwnO46V/\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\tHExO9cVOWOqkfv/nyAOTjEwoQTZgl/o28JNz2YHqzrghXmOCT4mh\n\t\t\tioGHovqqVFok\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J121AP"
-      ],
-      "SupportedDevices": [
-        "iPad7,2"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 171,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5275811208,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5376593920,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
-      "__update__": "__bumped__"
-    },
-    {
-      "ActualMinimumSystemPartition": 5454,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3150,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2142256287",
-      "MinimumSystemPartition": 5506,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tQdseRA+swSSJc2eeLa9u4O7deCtBplVqWTf8fVBkru2ypuVJT41S\n\t\t\te1s9z+YpA4po\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\tVWCApIDBiODaux0h3O51zkzF9MeoSoUsclMg3OEgwVoA9iuPpk/m\n\t\t\tofhQd/z4TAzi\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J120AP"
-      ],
-      "SupportedDevices": [
-        "iPad7,1"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 171,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5275811208,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5376593920,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
-      "__update__": "__bumped__"
-    },
-    {
-      "ActualMinimumSystemPartition": 5454,
-      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
-      "Build": "21H461",
-      "CryptexSizeInfo": [
-        {
-          "CryptexSize": 10,
-          "CryptexTag": "cryptex-app"
-        },
-        {
-          "CryptexSize": 3150,
-          "CryptexTag": "cryptex-system-arm64e"
-        }
-      ],
-      "DisablePreSoftwareUpdateAssetStaging": true,
-      "EAPFSEnabled": true,
-      "InstallationSize": "0",
-      "InstallationSize-Snapshot": "2142256287",
-      "MinimumSystemPartition": 5506,
-      "OSVersion": "9.9.17.7.11",
-      "RSEPDigest": "\n\t\t\tamPR7L7ap9ljKB4Cs9vg2l4RSfrGUcMMGqmd22nz1pzTRUIWnUOz\n\t\t\t5u9spfFvZ3iv\n\t\t\t",
-      "ReleaseType": "Beta",
-      "SEPDigest": "\n\t\t\t+bOpr9VtN03Cn6r8+PxoYPPAy2tWoDrUId4B95x4SFQvccB/e4d9\n\t\t\tS6QBy7ZZlqg7\n\t\t\t",
-      "SUConvReqd": true,
-      "SUDocumentationID": "iPadOS17711Long",
-      "SUInstallTonightEnabled": true,
-      "SUMultiPassEnabled": true,
-      "SUProductSystemName": "iOS",
-      "SUPublisher": "Apple Inc.",
-      "SupportedDeviceModels": [
-        "J208AP"
-      ],
-      "SupportedDevices": [
-        "iPad7,4"
-      ],
-      "SystemPartitionPadding": {
-        "1024": 1280,
-        "128": 1280,
-        "16": 160,
-        "256": 1280,
-        "32": 320,
-        "512": 1280,
-        "64": 640,
-        "768": 1280,
-        "8": 80
-      },
-      "SystemVolumeSealingOverhead": 171,
-      "TrainName": "DawnUpdate",
-      "_CompressionAlgorithm": "zip",
-      "_DownloadSize": 5275811208,
-      "_EventRecordingServiceURL": "https://xp.apple.com/report",
-      "_IsZipStreamable": true,
-      "_MasteredVersion": "461",
-      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
-      "_MeasurementAlgorithm": "SHA-1",
-      "_UnarchivedSize": 5376593920,
-      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
-      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
-      "__CanUseLocalCacheServer": true,
-      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
-      "__update__": "__bumped__"
-    },
-    {
       "ActualMinimumSystemPartition": 6218,
       "AssetType": "com.apple.MobileAsset.SoftwareUpdate",
       "Build": "22H390",
@@ -124003,6 +123873,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2620098017",
       "MinimumSystemPartition": 6270,
@@ -124070,6 +123972,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2620098017",
       "MinimumSystemPartition": 6270,
@@ -124137,6 +124071,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "2977289113",
       "MinimumSystemPartition": 6910,
@@ -124204,6 +124170,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3015747328",
       "MinimumSystemPartition": 7085,
@@ -124271,6 +124269,38 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3015747328",
       "MinimumSystemPartition": 7085,
@@ -124338,6 +124368,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -124405,6 +124436,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -124472,6 +124504,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -124539,6 +124572,7 @@
       ],
       "DisablePreSoftwareUpdateAssetStaging": true,
       "EAPFSEnabled": true,
+      "GranularRampingLogic": "NineDay_Unramp",
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3792534361",
       "MinimumSystemPartition": 8387,
@@ -124611,6 +124645,378 @@
       "MinimumSystemPartition": 5483,
       "OSVersion": "9.9.17.7.11",
       "RSEPDigest": "\n\t\t\tdjr8JdfT75BzkfJXZg2Bo5axmU2q7T3sNWiqC5JZjyrppmhZrSqF\n\t\t\t1I4HfEe2mR9R\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\twb/i5up7E9WlVPNMR54su3PIsGHUXaV035xKFoAH4/cPvQo1fgVM\n\t\t\tcRAf90hw/Thj\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J72bAP"
+      ],
+      "SupportedDevices": [
+        "iPad7,6"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 170,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5291139499,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tcLVDPgSVi9qdMDos2bBrIFZ4h3s=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5385663488,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77271/4066619A-C377-4AA9-B06C-83793F0874A1/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/289bce62ccb7bea6f0528a9e628703f606449239.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5431,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3148,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2138969684",
+      "MinimumSystemPartition": 5483,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tj0lA9cd2Arx1+Km1el647iuRy0/uU2ns7ixrwFxfW+M7YLdO7qVo\n\t\t\tUv7DMGjAau+0\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\tw5z9N5b/ne5LwjS2hSrIvj+z9m3yvHz8lm13w2VZ4AjjVSBxSHW8\n\t\t\tNpohnQ7NQReT\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J71bAP"
+      ],
+      "SupportedDevices": [
+        "iPad7,5"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 170,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5291139499,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tcLVDPgSVi9qdMDos2bBrIFZ4h3s=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5385663488,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77271/4066619A-C377-4AA9-B06C-83793F0874A1/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/289bce62ccb7bea6f0528a9e628703f606449239.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5454,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3150,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2142256287",
+      "MinimumSystemPartition": 5506,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tF5Nqybw/Y/U5KuZ+fB5+k7gQRviD5Lx+IgMGP0c+hhM0CDP/+Nnd\n\t\t\tyvyjT3Avap1Q\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\tfl8vTGyhlQCB8oE+C2sJ6seWsHPltMn230pDdNUUeMBIs1s+fs/r\n\t\t\trKI9BP9OuiLo\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J207AP"
+      ],
+      "SupportedDevices": [
+        "iPad7,3"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 171,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5275811208,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5376593920,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5454,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3150,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2142256287",
+      "MinimumSystemPartition": 5506,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tPLfgAHDhN3h+uPT7fBO/R/sWWkaWXi6m764D7ZYHsY2JzHPS0ybU\n\t\t\t4X0qUwnO46V/\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\tHExO9cVOWOqkfv/nyAOTjEwoQTZgl/o28JNz2YHqzrghXmOCT4mh\n\t\t\tioGHovqqVFok\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J121AP"
+      ],
+      "SupportedDevices": [
+        "iPad7,2"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 171,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5275811208,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5376593920,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5454,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3150,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2142256287",
+      "MinimumSystemPartition": 5506,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tQdseRA+swSSJc2eeLa9u4O7deCtBplVqWTf8fVBkru2ypuVJT41S\n\t\t\te1s9z+YpA4po\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\tVWCApIDBiODaux0h3O51zkzF9MeoSoUsclMg3OEgwVoA9iuPpk/m\n\t\t\tofhQd/z4TAzi\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J120AP"
+      ],
+      "SupportedDevices": [
+        "iPad7,1"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 171,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5275811208,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5376593920,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5454,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3150,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2142256287",
+      "MinimumSystemPartition": 5506,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tamPR7L7ap9ljKB4Cs9vg2l4RSfrGUcMMGqmd22nz1pzTRUIWnUOz\n\t\t\t5u9spfFvZ3iv\n\t\t\t",
+      "ReleaseType": "Beta",
+      "SEPDigest": "\n\t\t\t+bOpr9VtN03Cn6r8+PxoYPPAy2tWoDrUId4B95x4SFQvccB/e4d9\n\t\t\tS6QBy7ZZlqg7\n\t\t\t",
+      "SUConvReqd": true,
+      "SUDocumentationID": "iPadOS17711Long",
+      "SUInstallTonightEnabled": true,
+      "SUMultiPassEnabled": true,
+      "SUProductSystemName": "iOS",
+      "SUPublisher": "Apple Inc.",
+      "SupportedDeviceModels": [
+        "J208AP"
+      ],
+      "SupportedDevices": [
+        "iPad7,4"
+      ],
+      "SystemPartitionPadding": {
+        "1024": 1280,
+        "128": 1280,
+        "16": 160,
+        "256": 1280,
+        "32": 320,
+        "512": 1280,
+        "64": 640,
+        "768": 1280,
+        "8": 80
+      },
+      "SystemVolumeSealingOverhead": 171,
+      "TrainName": "DawnUpdate",
+      "_CompressionAlgorithm": "zip",
+      "_DownloadSize": 5275811208,
+      "_EventRecordingServiceURL": "https://xp.apple.com/report",
+      "_IsZipStreamable": true,
+      "_MasteredVersion": "461",
+      "_Measurement": "\n\t\t\tOErklNki0YFPFTnNSKdqgDQf9e4=\n\t\t\t",
+      "_MeasurementAlgorithm": "SHA-1",
+      "_UnarchivedSize": 5376593920,
+      "__AssetDefaultGarbageCollectionBehavior": "NeverCollected",
+      "__BaseURL": "https://updates.cdn-apple.com/2025SpringFCS/patches/122-77076/042AFFF5-EE63-4AD3-A1C0-A4CE71E7BE03/",
+      "__CanUseLocalCacheServer": true,
+      "__RelativePath": "com_apple_MobileAsset_SoftwareUpdate/be8c2838bb099bbfa83a8fe10bc173a50ab9e3f5.zip",
+      "__update__": "__bumped__"
+    },
+    {
+      "ActualMinimumSystemPartition": 5431,
+      "AssetType": "com_apple_MobileAsset_SoftwareUpdate",
+      "Build": "21H461",
+      "CryptexSizeInfo": [
+        {
+          "CryptexSize": 10,
+          "CryptexTag": "cryptex-app"
+        },
+        {
+          "CryptexSize": 3148,
+          "CryptexTag": "cryptex-system-arm64e"
+        }
+      ],
+      "DisablePreSoftwareUpdateAssetStaging": true,
+      "EAPFSEnabled": true,
+      "InstallationSize": "0",
+      "InstallationSize-Snapshot": "2138969684",
+      "MinimumSystemPartition": 5483,
+      "OSVersion": "9.9.17.7.11",
+      "RSEPDigest": "\n\t\t\tdjr8JdfT75BzkfJXZg2Bo5axmU2q7T3sNWiqC5JZjyrppmhZrSqF\n\t\t\t1I4HfEe2mR9R\n\t\t\t",
       "SEPDigest": "\n\t\t\twb/i5up7E9WlVPNMR54su3PIsGHUXaV035xKFoAH4/cPvQo1fgVM\n\t\t\tcRAf90hw/Thj\n\t\t\t",
       "SUConvReqd": true,
       "SUDocumentationID": "iPadOS17711Long",
@@ -126575,6 +126981,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "1073741824",
       "InstallationSize-Snapshot": "4398464060",
       "MinimumSystemPartition": 7659,
@@ -126642,6 +127080,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "1073741824",
       "InstallationSize-Snapshot": "4398464060",
       "MinimumSystemPartition": 7659,
@@ -126709,6 +127179,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -126776,6 +127278,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -126843,6 +127377,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -126910,6 +127476,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -126977,6 +127575,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127044,6 +127674,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127111,6 +127773,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127178,6 +127872,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127245,6 +127971,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127312,6 +128070,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127379,6 +128169,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127446,6 +128268,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127513,6 +128367,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "1073741824",
       "InstallationSize-Snapshot": "4398464060",
       "MinimumSystemPartition": 7659,
@@ -127579,6 +128465,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "1073741824",
       "InstallationSize-Snapshot": "4398464060",
       "MinimumSystemPartition": 7659,
@@ -127645,6 +128563,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -127711,6 +128661,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -127777,6 +128759,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -127843,6 +128857,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3378840084",
       "MinimumSystemPartition": 7823,
@@ -127909,6 +128955,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -127975,6 +129053,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128041,6 +129151,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128107,6 +129249,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128173,6 +129347,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128239,6 +129445,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128305,6 +129543,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -128371,6 +129641,38 @@
         }
       ],
       "EAPFSEnabled": true,
+      "GranularRampingLogic": [
+        {
+          "BgPct": 0,
+          "FgPct": 0,
+          "Hour": 120
+        },
+        {
+          "BgPct": 20,
+          "FgPct": 0,
+          "Hour": 96
+        },
+        {
+          "BgPct": 40,
+          "FgPct": 0,
+          "Hour": 72
+        },
+        {
+          "BgPct": 60,
+          "FgPct": 0,
+          "Hour": 48
+        },
+        {
+          "BgPct": 80,
+          "FgPct": 0,
+          "Hour": 24
+        },
+        {
+          "BgPct": 90,
+          "FgPct": 0,
+          "Hour": 0
+        }
+      ],
       "InstallationSize": "0",
       "InstallationSize-Snapshot": "3389662097",
       "MinimumSystemPartition": 7841,
@@ -133076,7 +134378,7 @@
     "\n\t\tMIIEuzCCA6OgAwIBAgIBAjANBgkqhkiG9w0BAQUFADBiMQswCQYDVQQGEwJV\n\t\tUzETMBEGA1UEChMKQXBwbGUgSW5jLjEmMCQGA1UECxMdQXBwbGUgQ2VydGlm\n\t\taWNhdGlvbiBBdXRob3JpdHkxFjAUBgNVBAMTDUFwcGxlIFJvb3QgQ0EwHhcN\n\t\tMDYwNDI1MjE0MDM2WhcNMzUwMjA5MjE0MDM2WjBiMQswCQYDVQQGEwJVUzET\n\t\tMBEGA1UEChMKQXBwbGUgSW5jLjEmMCQGA1UECxMdQXBwbGUgQ2VydGlmaWNh\n\t\tdGlvbiBBdXRob3JpdHkxFjAUBgNVBAMTDUFwcGxlIFJvb3QgQ0EwggEiMA0G\n\t\tCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDkkakJH5HbHkdQ6wXtXnmELes2\n\t\toldMVeyLGYne+Uts9QerIjAC6Bg++FAJ039BqJj50cpmnCRrEdCju+QbKsMf\n\t\tlZ56DKRHi1vUFjczy8QPTc4UadHJGXL1XQ7Vf1+b8iUDulWPTV0N8WQ1IxVL\n\t\tFVkds5T39pyez1C6wVhQZ48ItCD3y6wsIG9wtj8BMIy3Q88PnT3zK0koGsj+\n\t\tzrW5DtleHNbLPbU6rfQPDgCSC7EhFi501TwN22IWq6NxkkdTVcGvL0Gz+Pvj\n\t\tcM3mo0xFfh9Ma1CWQYnEdGILEINBhzOKgbEwWOxaBDKMaLOPHd5lc/9nXmW8\n\t\tSdh2nzMUZaF3lMktAgMBAAGjggF6MIIBdjAOBgNVHQ8BAf8EBAMCAQYwDwYD\n\t\tVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUK9BpR5R2Cf70a40uQKb3R01/CF4w\n\t\tHwYDVR0jBBgwFoAUK9BpR5R2Cf70a40uQKb3R01/CF4wggERBgNVHSAEggEI\n\t\tMIIBBDCCAQAGCSqGSIb3Y2QFATCB8jAqBggrBgEFBQcCARYeaHR0cHM6Ly93\n\t\td3cuYXBwbGUuY29tL2FwcGxlY2EvMIHDBggrBgEFBQcCAjCBthqBs1JlbGlh\n\t\tbmNlIG9uIHRoaXMgY2VydGlmaWNhdGUgYnkgYW55IHBhcnR5IGFzc3VtZXMg\n\t\tYWNjZXB0YW5jZSBvZiB0aGUgdGhlbiBhcHBsaWNhYmxlIHN0YW5kYXJkIHRl\n\t\tcm1zIGFuZCBjb25kaXRpb25zIG9mIHVzZSwgY2VydGlmaWNhdGUgcG9saWN5\n\t\tIGFuZCBjZXJ0aWZpY2F0aW9uIHByYWN0aWNlIHN0YXRlbWVudHMuMA0GCSqG\n\t\tSIb3DQEBBQUAA4IBAQBcNplMLXi37Yyb3PN3m/J20ncwT8EfhYOFG5k9Rzfy\n\t\tqZtAjizUsZAS2L70c5vu0mQPy3lPNNiiPvl4/2vIB+x9OYOLUyDTOMSxv5pP\n\t\tCmv/K/xZpwUJfBdAVhEedNO3iyM7R6PVbyTi69G3cN8PReEnyvFteO3ntRcX\n\t\tqNx+IjXKJdXZD9Zr1KIkIxH3oayPc4FgxhtbCS+SsvhESPBgOJ4V9T0mZyCK\n\t\tM2r3DYLP3uujL/lTaltkwGMzd/c6ByxW69oPIQ7aunMZT7XZNn/Bh1XZp5m5\n\t\tMkL72NVxnn6hUrcbvZNCJBIqxw8dtk2cXmPIS4AXUKqK1drk/NAJBzewdXUh\n\t\t"
   ],
   "FormatVersion": 1,
-  "Signature": "\n\tjAHHG0MnIfU+b6O6aLBHWXsXfVOgXuwwREsGmEQ55gHXALJLq7d9AUxtXB4kQozHVz8q\n\t1nKutD7CxmSf5IJUShxWLwsfC9VVc9MmysL9/AfrSY5Xtpk7Oid41PqbVOTcjPW5Gfp9\n\t/oACzowBNLyIeAMwCgwuWMbr/TeRKrlC0Tho/wnE2QRSlA2x4ZMIYDlbE1RoLKlxwGpr\n\txuSDRtxQjY9Jcn1FTiJinInt8HAsQWwdb/LfYlmiSLJcKMro7dlsP70Y2nhjEza5IBjW\n\tzAPzyOoPQQehRdGGwOJFSbNYBBOZlEVXQOIJrBbnq2QqjFrUu7P3wNelUMH32FVyEt/s\n\t2g==\n\t",
-  "SignatureRSA-SHA256": "\n\tY10wlUZlzW9rNEnMwWGR85MJPixtFwDj35COcMYPYg4vQ4qVeS79N6O3EHVOz6kAro4O\n\t66+jC5zRk1+bYnflPRjkRMat3yHksvuHWkr7jGgZMMPs9HORm6KlssHKW0uJ4vHVAUy8\n\tjKhzP+GYy+RqgUuT4ARw56pWSV31+7U/r2Jw5nVl0AcpnIsKgsUDHwFx7o+aZ6R4wGwV\n\t1mgT7Htu4x29IDcW+klM9Sq7rFnxqMmAQZXm+hO0hAh+z8HTUJAEWwBINbHX4Ph7g/+/\n\tphTgkyf9H76thIpkHa3zJAiyS6eZGJM9BkylxsCWriA5D3diDvS0vQgVx45pQxvH0Ry7\n\tmQ==\n\t",
+  "Signature": "\n\tnD6GJYqMJCY9eMlgtDNp5d1yvr5BTVNXzMTBeQS9mHsxnd2KqnzXdHoa6Ub6GvsoOdox\n\t7OC+yp/HPmTT7aFRnztirPWrsRUpoFRJmT5ehJmJ4yQzqRh5OfJppVnxp7qH09/EEi49\n\tjr+ZA67TAvhTvv8ShIof65NuHlz7klf3HWrS5xpC3+nUakJpe5vlmfCiv3X6qj/eur7X\n\ta70s0Mybu9DyGxqdA8qIN7QY1gB6Bk2aGmmtQYT5uf4AOxuDMmu8CXvYXzQ4Olc1cLpw\n\tNMkxY1IOdt2Lkhw1LRSfACmmFL+ugjHWJK+ilzo6V1JsHwCg2TVmXs6dd5nWIAFiH2Hg\n\tGA==\n\t",
+  "SignatureRSA-SHA256": "\n\tjuL4+Hkiqe4nz6/TiFUoEqGjyeM9m8+T8psfDOiD9Gnr8SECO9+qekiWvUCUmxr3R4mt\n\tixPYdi+rDOda2tP/lA1zlPZEISVm4gE6wzb73Fgbh4/Jap6xcIw0rgIkYTMWHK34/uBO\n\tyU7MymloIFF33XsPQF626epMVdWwnYWsfPGKxXKe8KO8WTLKxb2oVfcQGJefaj+f8MEo\n\tK3d5PgtI/zDltx2cvEKL//yjyLbKvDMvhjcAAla2OMdxBfksZ/u/lmrLPVgUSdIe0685\n\tgKkwino6v1F649XZpWr1p8VstDtKsojNRCqJujHkCJECJFu8mZk0k4jIIsgoOO7aZBcF\n\tjw==\n\t",
   "SigningKey": "AssetManifestSigning"
 }
