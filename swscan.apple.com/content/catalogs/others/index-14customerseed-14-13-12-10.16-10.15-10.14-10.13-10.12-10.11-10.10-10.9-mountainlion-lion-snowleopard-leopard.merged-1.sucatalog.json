@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-11-16T22:59:51Z",
+  "IndexDate": "2026-11-18T22:36:29Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57822,35 +57822,6 @@
       "PostDate": "2026-11-09T18:18:15Z",
       "State": "ramped"
     },
-    "142-53571": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/22/30/142-53571-A_1K2O91TGJE/04r6wjkqzp3xzrouc314er7q2y4p9v0psn/142-53571.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "f2a7ab9d933386e2be35c476562a9ac9f8249196",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/22/30/142-53571-A_1K2O91TGJE/04r6wjkqzp3xzrouc314er7q2y4p9v0psn/SafariTechPreviewPackage.pkm",
-          "Size": 230101964,
-          "URL": "https://swcdn.apple.com/content/downloads/22/30/142-53571-A_1K2O91TGJE/04r6wjkqzp3xzrouc314er7q2y4p9v0psn/SafariTechPreviewPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-11-05T00:07:23Z"
-    },
-    "142-53582": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/59/32/142-53582-A_8TACA7BBU8/zk2e4yh4iqfewh7kjwrgkg21wv7b96j5gc/142-53582.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "320046869cda5f8935c954d886f4cb8605b31e11",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/59/32/142-53582-A_8TACA7BBU8/zk2e4yh4iqfewh7kjwrgkg21wv7b96j5gc/SafariTechPreview256.pkm",
-          "Size": 139583907,
-          "URL": "https://swcdn.apple.com/content/downloads/59/32/142-53582-A_8TACA7BBU8/zk2e4yh4iqfewh7kjwrgkg21wv7b96j5gc/SafariTechPreview256.pkg"
-        }
-      ],
-      "PostDate": "2026-11-05T00:07:09Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/59/32/142-53582-A_8TACA7BBU8/zk2e4yh4iqfewh7kjwrgkg21wv7b96j5gc/SafariTechPreview256.smd"
-    },
     "142-53984": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/13/48/142-53984-A_EJ61HFYHHO/1qn061wzkhzssx5x7d0shzo43smzfmtffi/142-53984.English.dist"
@@ -58158,6 +58129,36 @@
       ],
       "PostDate": "2026-11-16T19:23:23Z",
       "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/28/54/142-68039-A_GNGK3N86E8/de8vnl2noqszz6dcoq0kksilawoonzx3hj/BridgeOSUpdateCustomer.smd"
+    },
+    "142-68492": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/142-68492.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "8830eb8e72abebbdbcf6175ff341b199e13229e3",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAutoPackage.pkm",
+          "Size": 221714282,
+          "URL": "https://swcdn.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAutoPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-11-18T22:07:03Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAuto.smd"
+    },
+    "142-68494": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/142-68494.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "e5de1a6efa32e519c3e8faf752ddc29c1637982c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAutoPackage.pkm",
+          "Size": 141631089,
+          "URL": "https://swcdn.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAutoPackage.pkg"
+        }
+      ],
+      "PostDate": "2026-11-18T22:07:03Z",
+      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAuto.smd"
     },
     "zzz041-87980": {
       "Distributions": {
