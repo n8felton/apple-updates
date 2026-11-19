@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2026-11-18T22:27:36Z",
+  "IndexDate": "2026-11-19T00:42:04Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -57952,36 +57952,6 @@
         }
       ],
       "PostDate": "2026-11-09T18:20:41Z"
-    },
-    "142-68492": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/142-68492.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "8830eb8e72abebbdbcf6175ff341b199e13229e3",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAutoPackage.pkm",
-          "Size": 221714282,
-          "URL": "https://swcdn.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAutoPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-11-18T22:07:03Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/28/10/142-68492-A_XG2Z28E0DG/vnr4xs4u4zu8aubrhmg74f5obfon3qs9ai/SafariAuto.smd"
-    },
-    "142-68494": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/142-68494.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "e5de1a6efa32e519c3e8faf752ddc29c1637982c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAutoPackage.pkm",
-          "Size": 141631089,
-          "URL": "https://swcdn.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAutoPackage.pkg"
-        }
-      ],
-      "PostDate": "2026-11-18T22:07:03Z",
-      "ServerMetadataURL": "https://swcdn.apple.com/content/downloads/53/25/142-68494-A_16Q27EM68A/d6qhk0asy9667rrti2pcwxdknaoyk7u8jx/SafariAuto.smd"
     },
     "zzz041-87980": {
       "Distributions": {
